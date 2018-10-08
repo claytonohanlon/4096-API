@@ -7,10 +7,12 @@ namespace kolokAPI.Models
 {
     public class SwipeData
     {
-        public int velocity { get; set; }
-        public int duration { get; set; }
-        public bool liked { get; set; }
-        public bool read { get; set; }
-        public int uid { get; set; }
+        public string userName{ get; set; }
+        //May need to change Data Type 
+        public long articleID { get; set; }
+        public string title { get; set; }
+        public string body{ get; set; }
+        public int swipe { get; set; }
+        public float sentiment { get; set; }
     }
 }
