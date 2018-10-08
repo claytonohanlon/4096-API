@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using kolokAPI.Models;
+using MySql.Data.MySqlClient;
 
 namespace kolokAPI.Controllers
 {
@@ -33,22 +34,5 @@ namespace kolokAPI.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
-
-        [HttpGet]
-        public SwipeData getSwipeData()
-        {
-            loadJSON(#Filestring_to_json_storage)
-            SwipeData articleData = new SwipeData
-            {
-                articleID = articleData.ToProcess.articleID,
-                title = articleData.ToProcess.title,
-                body = articleData.ToProcess.body,
-                swipeNumber = articleData.ToProcess.swipe
-            };
-
-            return articleData;
-        }
-
-
     }
 }

@@ -20,28 +20,5 @@ namespace kolokAPI.Controllers
             return "Hello World!";
         }
 
-        [HttpGet]
-        public SwipeData getSwipeData()
-        {
-            SwipeData testdata = new SwipeData
-            {
-                velocity = 2,
-                duration = 52,
-                liked = true,
-                read = false,
-                uid = 1885928
-            };
-
-            return testdata;
-        }
-
-        [HttpPost]
-        public string postSwipeData([FromBody] SwipeData input)
-        {
-            /*
-             * This controller will post swipe data to the database
-             */ 
-            return "test";
-        }
     }
 }
