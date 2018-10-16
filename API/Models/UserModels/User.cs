@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace API.Models.UserModels
+namespace API.Models.SwipeModels
 {
     public class User
     {

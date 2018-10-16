@@ -1,0 +1,3910 @@
+﻿{
+  "stories": [
+    {
+      "id": 183892445,
+      "title": "Britney Spears tiene un anuncio enorme y los fanáticos se están volviendo locos (+video)",
+      "body": "Britney Spears tiene un anuncio enorme y los fanáticos se están volviendo locos (+video)\n\n    \n\n    \n    \n    Spears apareció en el 'Ellen DeGeneres Show' el jueves, diciendo: \"De hecho, Tengo un gran anuncio que hacer \"\n\n      \n\n        \n    \n                    13 de octubre, 2018\n\n                        Redacción 24 Horas\n        \n                            \n\n    \n    \n\n\nVIDEO",
+      "summary": { "sentences": [] },
+      "source": {
+        "id": 738,
+        "name": "24 Horas",
+        "title": "24-horas.mx/",
+        "links_in_count": 832,
+        "home_page_url": "http://www.24-horas.mx/",
+        "domain": "24-horas.mx",
+        "logo_url": "http://www.24-horas.mx/wp-content/uploads/2017/02/cropped-categoria-32x32.jpg",
+        "locations": [
+          {
+            "country": "MX",
+            "city": "Mexico"
+          }
+        ],
+        "scopes": [
+          {
+            "country": "MX",
+            "city": "Mexico",
+            "level": "local"
+          }
+        ],
+        "rankings": {
+          "alexa": [
+            {
+              "rank": 37908,
+              "fetched_at": "2016-08-22T16:50:03Z"
+            },
+            {
+              "rank": 10987,
+              "country": "VE",
+              "fetched_at": "2016-08-22T16:50:03Z"
+            },
+            {
+              "rank": 22910,
+              "country": "ES",
+              "fetched_at": "2016-08-22T16:50:03Z"
+            },
+            {
+              "rank": 260133,
+              "country": "US",
+              "fetched_at": "2016-08-22T16:50:03Z"
+            },
+            {
+              "rank": 6354,
+              "country": "GT",
+              "fetched_at": "2016-08-22T16:50:03Z"
+            },
+            {
+              "rank": 24372,
+              "country": "AR",
+              "fetched_at": "2016-08-22T16:50:03Z"
+            },
+            {
+              "rank": 140307,
+              "country": "GB",
+              "fetched_at": "2016-08-22T16:50:03Z"
+            },
+            {
+              "rank": 10393,
+              "country": "CO",
+              "fetched_at": "2016-08-22T16:50:03Z"
+            },
+            {
+              "rank": 5262,
+              "country": "PA",
+              "fetched_at": "2016-08-22T16:50:03Z"
+            },
+            {
+              "rank": 831,
+              "country": "MX",
+              "fetched_at": "2016-08-22T16:50:03Z"
+            },
+            {
+              "rank": 8190,
+              "country": "PE",
+              "fetched_at": "2016-08-22T16:50:03Z"
+            }
+          ]
+        }
+      },
+      "author": {
+        "id": 3087277,
+        "name": "Diego Morales"
+      },
+      "entities": {
+        "title": [
+          {
+            "text": "Britney Spears",
+            "score": 1.0,
+            "types": [ "MusicalArtist", "Agent", "Artist", "Person" ],
+            "links": { "dbpedia": "http://es.dbpedia.org/resource/Britney_Spears" },
+            "indices": [ [ 0, 13 ] ]
+          }
+        ],
+        "body": [
+          {
+            "text": "2018",
+            "score": 0.9996208548545837,
+            "types": [ "Album", "product" ],
+            "links": { "dbpedia": "http://es.dbpedia.org/resource/2018" },
+            "indices": [ [ 279, 282 ] ]
+          },
+          {
+            "text": "Britney Spears",
+            "score": 1.0,
+            "types": [ "Artist", "Agent", "MusicalArtist", "Person" ],
+            "links": { "dbpedia": "http://es.dbpedia.org/resource/Britney_Spears" },
+            "indices": [ [ 0, 13 ] ]
+          },
+          {
+            "text": "Ellen DeGeneres",
+            "score": 1.0,
+            "types": [ "Artist", "Agent", "Actor", "Person" ],
+            "links": { "dbpedia": "http://es.dbpedia.org/resource/Ellen_DeGeneres" },
+            "indices": [ [ 133, 147 ] ]
+          },
+          {
+            "text": "Spears",
+            "types": [ "Place" ],
+            "indices": [
+              [ 8, 13 ],
+              [ 110, 115 ]
+            ]
+          },
+          {
+            "text": "Tengo",
+            "types": [ "Place" ],
+            "indices": [ [ 187, 191 ] ]
+          }
+        ]
+      },
+      "keywords": [ "Spears", "tiene", "anuncio", "video", "Britney", "Britney Spears", "video) Spears", "Tengo", "hecho", "octubre", "hacer", "diciendo", "jueves", "DeGeneres", "Ellen", "apareció", "Redacción", "Horas", "13 de octubre", "2018", "Ellen DeGeneres" ],
+      "hashtags": [ "#BritneySpears", "#EllenDeGeneres", "#13DeOctubre", "#2018" ],
+      "characters_count": 384,
+      "words_count": 43,
+      "sentences_count": 1,
+      "paragraphs_count": 15,
+      "categories": [],
+      "social_shares_count": {
+        "facebook": [],
+        "google_plus": [],
+        "linkedin": [],
+        "reddit": []
+      },
+      "media": [
+        {
+          "type": "image",
+          "url": "http://www.24-horas.mx/wp-content/uploads/2018/10/Britney-150x150.jpg",
+          "format": "JPEG",
+          "content_length": 6794,
+          "width": 150,
+          "height": 150
+        }
+      ],
+      "sentiment": {
+        "title": {
+          "polarity": "negative",
+          "score": 0.614903
+        },
+        "body": {
+          "polarity": "negative",
+          "score": 0.550276
+        }
+      },
+      "language": "es",
+      "published_at": "2018-10-14T01:04:57Z",
+      "links": {
+        "permalink": "http://www.24-horas.mx/2018/10/13/britney-spears-tiene-un-anuncio-enorme-y-los-fanaticos-se-estan-volviendo-locos-video/",
+        "related_stories": "https://api.newsapi.aylien.com/api/v1/related_stories?story_id=183892445",
+        "coverages": "https://api.newsapi.aylien.com/api/v1/coverages?story_id=183892445"
+      }
+    },
+    {
+      "id": 183892436,
+      "title": "Central Florida fishing forecast: Oct. 14",
+      "body": "Bass and bluegills can be caught near Lemon Bluff in the St. Johns River.\n\nFRESHWATER: The St. Johns River near Lemon Bluff has been steady for bass and good for bluegills. Live shiners, Rat-L-Traps and swimbaits all work well for bass. Work around points, any bait pods you find and the edges of vegetation. Use redworms just off the banks and near any structure for bluegills. A few warmouth, shellcrackers and catfish are possible.\n\nTry the surf for plenty of action.\n\nSALTWATER: When conditions allow, try the surf at Playalinda Beach for bluefish, whiting and black drum. If mullet are present, use Gator Spoons for blues,, jacks and Spanish mackerel. Use shrimp for whiting and black drum.",
+      "summary": { "sentences": [ "Bass and bluegills can be caught near Lemon Bluff in the St. Johns River.", "FRESHWATER: The St. Johns River near Lemon Bluff has been steady for bass and good for bluegills.", "Use redworms just off the banks and near any structure for bluegills.", "Try the surf for plenty of action.", "Use shrimp for whiting and black drum." ] },
+      "source": {
+        "id": 418,
+        "name": "Orlando Sentinel",
+        "title": "Orlando Sentinel",
+        "description": "For Central Florida. Great source of news, weather, sports, entertainment, dining, and jobs.",
+        "links_in_count": 18238,
+        "home_page_url": "http://www.orlandosentinel.com/",
+        "domain": "orlandosentinel.com",
+        "locations": [
+          {
+            "country": "US",
+            "state": "Florida",
+            "city": "Orlando"
+          }
+        ],
+        "scopes": [
+          {
+            "country": "US",
+            "state": "Florida",
+            "city": "Orlando",
+            "level": "local"
+          }
+        ],
+        "rankings": {
+          "alexa": [
+            {
+              "rank": 6602,
+              "fetched_at": "2016-08-22T16:48:38Z"
+            },
+            {
+              "rank": 61133,
+              "country": "IN",
+              "fetched_at": "2016-08-22T16:48:38Z"
+            },
+            {
+              "rank": 1885,
+              "country": "US",
+              "fetched_at": "2016-08-22T16:48:38Z"
+            },
+            {
+              "rank": 16046,
+              "country": "GB",
+              "fetched_at": "2016-08-22T16:48:38Z"
+            },
+            {
+              "rank": 9938,
+              "country": "CA",
+              "fetched_at": "2016-08-22T16:48:38Z"
+            }
+          ]
+        }
+      },
+      "author": {
+        "id": 1239816,
+        "name": "Mark Blythe"
+      },
+      "entities": {
+        "title": [
+          {
+            "text": "Central Florida",
+            "score": 0.9365260601043701,
+            "types": [ "Place", "City", "Region", "AdministrativeRegion", "Settlement", "PopulatedPlace", "Location" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Central_Florida" },
+            "indices": [ [ 0, 14 ] ]
+          }
+        ],
+        "body": [
+          {
+            "text": "shellcrackers",
+            "score": 1.0,
+            "types": [ "Eukaryote", "Animal", "Fish", "Species" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Redear_sunfish" },
+            "indices": [ [ 395, 407 ] ]
+          },
+          {
+            "text": "bluefish",
+            "score": 1.0,
+            "types": [ "Eukaryote", "Animal", "Fish", "Species" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Bluefish" },
+            "indices": [ [ 543, 550 ] ]
+          },
+          {
+            "text": "bluegills",
+            "score": 1.0,
+            "types": [ "Eukaryote", "Animal", "Fish", "Species" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Bluegill" },
+            "indices": [
+              [ 9, 17 ],
+              [ 162, 170 ],
+              [ 368, 376 ]
+            ]
+          },
+          {
+            "text": "bass",
+            "score": 0.908735990524292,
+            "types": [ "Instrument", "Agent", "MusicalArtist" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Bass_guitar" },
+            "indices": [
+              [ 144, 147 ],
+              [ 231, 234 ]
+            ]
+          },
+          {
+            "text": "mullet",
+            "score": 0.8915440440177917,
+            "types": [ "Family", "Eukaryote", "Animal", "Fish", "Species" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Mullet_(fish)" },
+            "indices": [ [ 580, 585 ] ]
+          },
+          {
+            "text": "Spanish mackerel",
+            "score": 0.8989690542221069,
+            "types": [ "Tribe", "Insect" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Spanish_mackerel" },
+            "indices": [ [ 639, 654 ] ]
+          },
+          {
+            "text": "black drum",
+            "score": 1.0,
+            "types": [ "Eukaryote", "Animal", "Fish", "Species" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Black_drum" },
+            "indices": [
+              [ 565, 574 ],
+              [ 684, 693 ]
+            ]
+          },
+          {
+            "text": "blues",
+            "score": 0.9994838833808899,
+            "types": [ "TopicalConcept", "Genre", "MusicGenre" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Blues" },
+            "indices": [ [ 621, 625 ] ]
+          },
+          {
+            "text": "shrimp",
+            "score": 0.9655929803848267,
+            "types": [ "Food", "product", "Term" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Shrimp" },
+            "indices": [ [ 661, 666 ] ]
+          },
+          {
+            "text": "catfish",
+            "score": 0.9988014698028564,
+            "types": [ "Insect", "Eukaryote", "Animal", "Group", "Fish", "Band", "Species" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Catfish" },
+            "indices": [ [ 413, 419 ] ]
+          },
+          {
+            "text": "Lemon Bluff",
+            "types": [ "Place" ],
+            "indices": [
+              [ 38, 48 ],
+              [ 112, 122 ]
+            ]
+          },
+          {
+            "text": "St. Johns River",
+            "types": [ "Place" ],
+            "indices": [
+              [ 57, 71 ],
+              [ 91, 105 ]
+            ]
+          },
+          {
+            "text": "Rat-L-Traps",
+            "types": [ "Organisation" ],
+            "indices": [ [ 187, 197 ] ]
+          },
+          {
+            "text": "SALTWATER",
+            "types": [ "Organisation" ],
+            "indices": [ [ 472, 480 ] ]
+          },
+          {
+            "text": "Playalinda Beach",
+            "types": [ "Organisation" ],
+            "indices": [ [ 522, 537 ] ]
+          },
+          {
+            "text": "Gator Spoons",
+            "types": [ "Organisation" ],
+            "indices": [ [ 604, 615 ] ]
+          }
+        ]
+      },
+      "keywords": [ "Florida", "forecast", "fishing", "Central", "Oct.", "Central Florida", "Spanish mackerel", "bluegills", "surf", "Bass", "whiting", "black", "Spanish", "Spoons", "blues", "Gator", "mackerel", "jacks", "vegetation", "pods", "edges", "banks", "mullet", "shellcrackers", "bluefish", "bass", "black drum", "shrimp", "catfish" ],
+      "hashtags": [ "#Bluegill", "#BassGuitar", "#Whiting", "#BlackDrum", "#CentralFlorida", "#RedearSunfish", "#Catfish", "#Bluefish", "#Mullet", "#Blues", "#SpanishMackerel", "#Shrimp" ],
+      "characters_count": 695,
+      "words_count": 119,
+      "sentences_count": 10,
+      "paragraphs_count": 4,
+      "categories": [
+        {
+          "id": "IAB17-32",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.14,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB17-32",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB17"
+          }
+        },
+        {
+          "id": "IAB17",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.09,
+          "confident": true,
+          "links": { "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB17" }
+        },
+        {
+          "id": "IAB9",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.08,
+          "confident": true,
+          "links": { "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB9" }
+        },
+        {
+          "id": "IAB9-4",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.06,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB9-4",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB9"
+          }
+        },
+        {
+          "id": "10013000",
+          "taxonomy": "iptc-subjectcode",
+          "level": 2,
+          "score": 0.39,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/10013000",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/10000000"
+          }
+        }
+      ],
+      "social_shares_count": {
+        "facebook": [],
+        "google_plus": [],
+        "linkedin": [],
+        "reddit": []
+      },
+      "media": [
+        {
+          "type": "image",
+          "url": "https://www.trbimg.com/img-5bc291d3/turbine/os-sp-fishing-forecast-1014",
+          "format": "JPEG",
+          "content_length": 25338,
+          "width": 640,
+          "height": 360
+        },
+        {
+          "type": "image",
+          "url": "http://www.trbimg.com/img-5bc29177/turbine/os-1539477871-qpq01xyu1m-snap-image",
+          "format": "JPEG",
+          "content_length": 26790,
+          "width": 640,
+          "height": 360
+        }
+      ],
+      "sentiment": {
+        "title": {
+          "polarity": "neutral",
+          "score": 0.904139
+        },
+        "body": {
+          "polarity": "positive",
+          "score": 0.906254
+        }
+      },
+      "language": "en",
+      "published_at": "2018-10-14T01:04:52Z",
+      "links": {
+        "permalink": "http://feeds.orlandosentinel.com/~r/orlandosentinel/sports/~3/klrBg2r4zac/os-sp-fishing-forecast-1014-story.html",
+        "related_stories": "https://api.newsapi.aylien.com/api/v1/related_stories?story_id=183892436",
+        "coverages": "https://api.newsapi.aylien.com/api/v1/coverages?story_id=183892436",
+        "canonical": "http://www.orlandosentinel.com/sports/os-sp-fishing-forecast-1014-story.html"
+      }
+    },
+    {
+      "id": 183892416,
+      "title": "EPS for DURECT Corporation (DRRX) Expected At $-0.03",
+      "body": "EPS for DURECT Corporation (DRRX) Expected At  14, 2018 - By Richard  sentiment increased to 1.8 in 2018 Q2. Its up 0.09, from 1.71 in 2018Q1. It is positive, as 12 investors sold DURECT Corporation shares while 18 reduced holdings. 19 funds opened positions while 35 raised stakes. 74.53 million shares or 5.13% more from 70.89 million shares in 2018Q1 were reported.\n\n Proshare Advsr Lc reported 0% in DURECT Corporation (NASDAQ:DRRX). Tiaa Cref Inv Ltd Limited Liability Company invested 0% in DURECT Corporation (NASDAQ:DRRX). Plante Moran Fincl Advsrs Limited Company invested in 676 shares or 0% of the stock. Wells Fargo Mn holds 0% of its portfolio in DURECT Corporation (NASDAQ:DRRX) for 468,961 shares. Amalgamated Savings Bank stated it has 0% of its portfolio in DURECT Corporation (NASDAQ:DRRX). Tocqueville Asset Lp has 0.02% invested in DURECT Corporation (NASDAQ:DRRX). Citigroup owns 22,516 shares. First Eagle Invest Limited Liability Corporation has invested 0.09% in DURECT Corporation (NASDAQ:DRRX). Balyasny Asset Ltd Liability Corporation accumulated 60,944 shares. Glenmede Company Na reported 5,000 shares. 5,155 are owned by Bnp Paribas Arbitrage. Cubist Systematic Strategies Limited Liability Corporation reported 22,409 shares stake. Piedmont Advsrs Limited Liability Corp holds 2,722 shares. Ny State Common Retirement Fund holds 0% of its portfolio in DURECT Corporation (NASDAQ:DRRX) for 149,600 shares. Prelude Cap Lc has 363,831 shares for 0.04% of their portfolio.\n\n Analysts expect DURECT Corporation (NASDAQ:DRRX) to report $-0.03 EPS on November, 7.They anticipate $0.07 EPS change or 175.00 % from last quarter’s $0.04 EPS. After having $-0.04 EPS previously, DURECT Corporation’s analysts see -25.00 % EPS growth. The stock increased 1.04% or $0.01 during the last trading session, reaching $0.97. About 166,227 shares traded. DURECT Corporation (NASDAQ:DRRX) has declined 24.22% since October 14, 2017 and is downtrending. It has underperformed by 39.84% the SP500.\n\n\n\n\n\n\nDURECT Corporation, a biopharmaceutical company, researches and develops medicines based on its epigenetic regulator and drug delivery programs. The company has market cap of $157.14 million. The firm offers ALZET product line that consists of osmotic pumps and accessories used for experimental research in mice, rats, and other laboratory animals; and a range of biodegradable polymers for use as raw materials for pharmaceutical and medical devices under the LACTEL brand. It currently has negative earnings. The Company’s product pipeline consists of multiple investigational drug candidates in clinical development, such as DUR-928, an endogenous, orally bioavailable small molecule that is in Phase 1 development stage to play a regulatory role in lipid homeostasis, inflammation, and cell survival.\n\n\nMore news for DURECT Corporation (NASDAQ:DRRX) were recently published by: Seekingalpha.com, which released: “DURECT Corporation appoints Michael H. Arenberg as Chief Financial Officer” on October 01, 2018. Seekingalpha.com‘s article titled: “DURECT +13% on receiving marketing authorization for methydur sustained release capsules for ADHD in Taiwan” and published on September 18, 2018 is yet another important article.\n\n\n\n\n\n\n\n\t \t\t\n\nReceive News  Ratings Via Email - Enter your email address below to receive a concise daily summary of the latest news and analysts' ratings with our FREE daily email   By Richard Conner",
+      "summary": { "sentences": [ "Tiaa Cref Inv Ltd Limited Liability Company invested 0% in DURECT Corporation (NASDAQ:DRRX).", "Wells Fargo Mn holds 0% of its portfolio in DURECT Corporation (NASDAQ:DRRX) for 468,961 shares.", "First Eagle Invest Limited Liability Corporation has invested 0.09% in DURECT Corporation (NASDAQ:DRRX).", "Ny State Common Retirement Fund holds 0% of its portfolio in DURECT Corporation (NASDAQ:DRRX) for 149,600 shares.", "DURECT Corporation, a biopharmaceutical company, researches and develops medicines based on its epigenetic regulator and drug delivery programs." ] },
+      "source": {
+        "id": 8703,
+        "name": "Whats On Thorold",
+        "title": "whatsonthorold.com/",
+        "links_in_count": 25,
+        "home_page_url": "https://www.whatsonthorold.com/",
+        "domain": "whatsonthorold.com",
+        "locations": [ { "country": "US" } ],
+        "scopes": [ { "level": "international" } ],
+        "rankings": {
+          "alexa": [
+            {
+              "rank": 1329771,
+              "fetched_at": "2018-05-22T14:39:49Z"
+            }
+          ]
+        }
+      },
+      "author": {
+        "id": 2345766,
+        "name": "Richard Conner"
+      },
+      "entities": {
+        "title": [
+          {
+            "text": "EPS",
+            "types": [ "Organisation" ],
+            "indices": [ [ 0, 2 ] ]
+          }
+        ],
+        "body": [
+          {
+            "text": "ratings",
+            "score": 0.9129378795623779,
+            "types": [ "Place", "Systems" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Nielsen_ratings" },
+            "indices": [ [ 3389, 3395 ] ]
+          },
+          {
+            "text": "market cap",
+            "score": 1.0,
+            "types": [ "Value", "Company" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Market_capitalization" },
+            "indices": [ [ 2174, 2183 ] ]
+          },
+          {
+            "text": "Bnp Paribas",
+            "score": 0.9996836185455322,
+            "types": [ "Organisation", "Company", "Agent", "Bank" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/BNP_Paribas" },
+            "indices": [ [ 1151, 1161 ] ]
+          },
+          {
+            "text": "bioavailable",
+            "score": 1.0,
+            "types": [ "Subcategory" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Bioavailability" },
+            "indices": [ [ 2673, 2684 ] ]
+          },
+          {
+            "text": "lipid",
+            "score": 0.9997521638870239,
+            "types": [ "Band", "Group" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Lipid" },
+            "indices": [ [ 2767, 2771 ] ]
+          },
+          {
+            "text": "inflammation",
+            "score": 0.9995542168617249,
+            "types": [ "Part" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Inflammation" },
+            "indices": [ [ 2786, 2797 ] ]
+          },
+          {
+            "text": "osmotic",
+            "score": 0.9922320246696472,
+            "types": [ "Movement", "Organisation" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Osmosis" },
+            "indices": [ [ 2257, 2263 ] ]
+          },
+          {
+            "text": "homeostasis",
+            "score": 1.0,
+            "types": [ "Building", "Property" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Homeostasis" },
+            "indices": [ [ 2773, 2783 ] ]
+          },
+          {
+            "text": "biodegradable",
+            "score": 0.9916547536849976,
+            "types": [ "Dissolution" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Biodegradation" },
+            "indices": [ [ 2378, 2390 ] ]
+          },
+          {
+            "text": "Piedmont",
+            "score": 0.93903648853302,
+            "types": [ "PopulatedPlace", "Location", "Region", "AdministrativeRegion", "Place", "Regions", "Settlement" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Piedmont" },
+            "indices": [ [ 1263, 1270 ] ]
+          },
+          {
+            "text": "mice",
+            "score": 0.9528626799583435,
+            "types": [ "Rodent", "Mammal" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Mouse" },
+            "indices": [ [ 2321, 2324 ] ]
+          },
+          {
+            "text": "Chief Financial Officer",
+            "score": 0.9973331689834595,
+            "types": [ "Person", "Officer" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Chief_financial_officer" },
+            "indices": [ [ 2982, 3004 ] ]
+          },
+          {
+            "text": "The firm",
+            "score": 0.35182061791419983,
+            "types": [ "Work", "product", "Film", "Wikidata:Q11424" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/The_Firm_(1993_film)" },
+            "indices": [ [ 2205, 2212 ] ]
+          },
+          {
+            "text": "Cubist",
+            "score": 0.99894118309021,
+            "types": [ "MusicGenre" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Cubism" },
+            "indices": [ [ 1174, 1179 ] ]
+          },
+          {
+            "text": "Taiwan",
+            "score": 0.9995265603065491,
+            "types": [ "PopulatedPlace", "Location", "State", "Place", "Country" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Taiwan" },
+            "indices": [ [ 3165, 3170 ] ]
+          },
+          {
+            "text": "Common",
+            "score": 0.9408996105194092,
+            "types": [ "Artist", "Person", "Agent", "MusicalArtist" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Common_(rapper)" },
+            "indices": [ [ 1331, 1336 ] ]
+          },
+          {
+            "text": "endogenous",
+            "score": 0.9854606986045837,
+            "types": [ "Protein", "Sequences" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Endogeny_(biology)" },
+            "indices": [ [ 2654, 2663 ] ]
+          },
+          {
+            "text": "epigenetic",
+            "score": 0.9971701502799988,
+            "types": [ "Study", "Book", "product" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Epigenetics" },
+            "indices": [ [ 2109, 2118 ] ]
+          },
+          {
+            "text": "polymers",
+            "score": 0.9999231100082397,
+            "types": [ "Band", "Molecule", "ChemicalCompound" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Polymer" },
+            "indices": [ [ 2392, 2399 ] ]
+          },
+          {
+            "text": "DUR",
+            "score": 1.0,
+            "types": [ "Population", "EthnicGroup" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Asteroid_family" },
+            "indices": [ [ 2642, 2644 ] ]
+          },
+          {
+            "text": "biopharmaceutical",
+            "score": 1.0,
+            "types": [ "PersonFunction" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Biopharmaceutical" },
+            "indices": [ [ 2035, 2051 ] ]
+          },
+          {
+            "text": "Limited Liability Company",
+            "score": 1.0,
+            "types": [ "Company", "Form" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Limited_liability_company" },
+            "indices": [ [ 456, 480 ] ]
+          },
+          {
+            "text": "pipeline",
+            "score": 0.9793521761894226,
+            "types": [ "Company", "Transportation" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Pipeline_transport" },
+            "indices": [ [ 2547, 2554 ] ]
+          },
+          {
+            "text": "Wells Fargo",
+            "score": 0.9994316697120667,
+            "types": [ "Banking", "Organisation", "Company", "Agent", "Bank" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Wells_Fargo" },
+            "indices": [ [ 616, 626 ] ]
+          },
+          {
+            "text": "Arbitrage",
+            "score": 0.9771432280540466,
+            "types": [ "Company", "Practice" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Arbitrage" },
+            "indices": [ [ 1163, 1171 ] ]
+          },
+          {
+            "text": "stake",
+            "score": 0.6707403659820557,
+            "types": [ "Unit", "Organisation" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Stake_(Latter_Day_Saints)" },
+            "indices": [ [ 1256, 1260 ] ]
+          },
+          {
+            "text": "investigational drug",
+            "score": 1.0,
+            "types": [ "Software", "product", "Means" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Investigational_New_Drug" },
+            "indices": [ [ 2577, 2596 ] ]
+          },
+          {
+            "text": "Arenberg",
+            "score": 0.923272430896759,
+            "types": [ "PopulatedPlace", "Location", "AdministrativeRegion", "Place", "Country", "County" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Arenberg" },
+            "indices": [ [ 2970, 2977 ] ]
+          },
+          {
+            "text": "ADHD",
+            "score": 1.0,
+            "types": [ "Disease", "Disorder" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Attention_deficit_hyperactivity_disorder" },
+            "indices": [ [ 3157, 3160 ] ]
+          },
+          {
+            "text": "Citigroup",
+            "score": 1.0,
+            "types": [ "Organisation", "Company", "Agent", "Bank" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Citigroup" },
+            "indices": [ [ 886, 894 ] ]
+          },
+          {
+            "text": "NASDAQ",
+            "score": 1.0,
+            "types": [ "PersonFunction", "Company", "Exchange", "Organisation" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/NASDAQ" },
+            "indices": [
+              [ 424, 429 ],
+              [ 517, 522 ],
+              [ 680, 685 ],
+              [ 795, 800 ],
+              [ 872, 877 ],
+              [ 1007, 1012 ],
+              [ 1403, 1408 ],
+              [ 1538, 1543 ],
+              [ 1887, 1892 ],
+              [ 2855, 2860 ]
+            ]
+          },
+          {
+            "text": "small molecule",
+            "score": 0.9019030928611755,
+            "types": [ "Compound", "ChemicalCompound" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Small_molecule" },
+            "indices": [ [ 2686, 2699 ] ]
+          },
+          {
+            "text": "Richard",
+            "types": [ "Person" ],
+            "indices": [
+              [ 61, 67 ],
+              [ 3428, 3434 ]
+            ]
+          },
+          {
+            "text": "Plante Moran Fincl",
+            "types": [ "Person" ],
+            "indices": [ [ 531, 548 ] ]
+          },
+          {
+            "text": "Tocqueville Asset Lp",
+            "types": [ "Person" ],
+            "indices": [ [ 809, 828 ] ]
+          },
+          {
+            "text": "Prelude Cap Lc",
+            "types": [ "Person" ],
+            "indices": [ [ 1436, 1449 ] ]
+          },
+          {
+            "text": "Michael H. Arenberg",
+            "types": [ "Person" ],
+            "indices": [ [ 2959, 2977 ] ]
+          },
+          {
+            "text": "Seekingalpha.com",
+            "types": [ "Person", "Organisation" ],
+            "indices": [
+              [ 2896, 2911 ],
+              [ 3028, 3043 ]
+            ]
+          },
+          {
+            "text": "Richard Conner",
+            "types": [ "Person" ],
+            "indices": [ [ 3428, 3441 ] ]
+          },
+          {
+            "text": "Proshare Advsr Lc",
+            "types": [ "product" ],
+            "indices": [ [ 371, 387 ] ]
+          },
+          {
+            "text": "EPS",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 0, 2 ],
+              [ 1568, 1570 ],
+              [ 1609, 1611 ],
+              [ 1658, 1660 ],
+              [ 1683, 1685 ],
+              [ 1742, 1744 ]
+            ]
+          },
+          {
+            "text": "DURECT Corporation",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 8, 25 ],
+              [ 180, 197 ],
+              [ 404, 421 ],
+              [ 497, 514 ],
+              [ 660, 677 ],
+              [ 775, 792 ],
+              [ 852, 869 ],
+              [ 987, 1004 ],
+              [ 1383, 1400 ],
+              [ 1518, 1535 ],
+              [ 1699, 1716 ],
+              [ 1867, 1884 ],
+              [ 2013, 2030 ],
+              [ 2835, 2852 ],
+              [ 2931, 2948 ]
+            ]
+          },
+          {
+            "text": "Inv Ltd Limited Liability Company",
+            "types": [ "Organisation" ],
+            "indices": [ [ 448, 480 ] ]
+          },
+          {
+            "text": "Wells Fargo Mn",
+            "types": [ "Organisation" ],
+            "indices": [ [ 616, 629 ] ]
+          },
+          {
+            "text": "Amalgamated Savings Bank",
+            "types": [ "Organisation" ],
+            "indices": [ [ 713, 736 ] ]
+          },
+          {
+            "text": "First Eagle Invest Limited Liability Corporation",
+            "types": [ "Organisation" ],
+            "indices": [ [ 916, 963 ] ]
+          },
+          {
+            "text": "Balyasny Asset Ltd Liability Corporation",
+            "types": [ "Organisation" ],
+            "indices": [ [ 1021, 1060 ] ]
+          },
+          {
+            "text": "Glenmede Company Na",
+            "types": [ "Organisation" ],
+            "indices": [ [ 1089, 1107 ] ]
+          },
+          {
+            "text": "Bnp Paribas Arbitrage",
+            "types": [ "Organisation" ],
+            "indices": [ [ 1151, 1171 ] ]
+          },
+          {
+            "text": "Cubist Systematic Strategies Limited Liability Corporation",
+            "types": [ "Organisation" ],
+            "indices": [ [ 1174, 1231 ] ]
+          },
+          {
+            "text": "Piedmont Advsrs Limited Liability Corp",
+            "types": [ "Organisation" ],
+            "indices": [ [ 1263, 1300 ] ]
+          },
+          {
+            "text": "State Common Retirement Fund",
+            "types": [ "Organisation" ],
+            "indices": [ [ 1325, 1352 ] ]
+          },
+          {
+            "text": "ALZET",
+            "types": [ "Organisation" ],
+            "indices": [ [ 2221, 2225 ] ]
+          },
+          {
+            "text": "LACTEL",
+            "types": [ "Organisation" ],
+            "indices": [ [ 2475, 2480 ] ]
+          },
+          {
+            "text": "Company",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 474, 480 ],
+              [ 565, 571 ],
+              [ 1098, 1104 ],
+              [ 2529, 2535 ]
+            ]
+          },
+          {
+            "text": "More",
+            "types": [ "Organisation" ],
+            "indices": [ [ 2821, 2824 ] ]
+          },
+          {
+            "text": "Receive News",
+            "types": [ "Organisation" ],
+            "indices": [ [ 3256, 3267 ] ]
+          },
+          {
+            "text": "FREE",
+            "types": [ "Organisation" ],
+            "indices": [ [ 3406, 3409 ] ]
+          }
+        ]
+      },
+      "keywords": [ "DURECT", "DRRX", "Corporation", "DURECT Corporation", "Company’s product", "News Ratings", "Company", "shares", "rats", "development", "news", "product", "drug", "Limited", "NASDAQ", "ratings", "market cap", "Bnp Paribas", "medical devices", "bioavailable", "lipid", "inflammation", "osmotic", "homeostasis", "biodegradable", "Piedmont", "mice", "Chief Financial Officer", "The firm", "Cubist", "capsules", "Taiwan", "drug delivery", "Common", "endogenous", "epigenetic", "polymers", "pharmaceutical", "DUR", "biopharmaceutical", "Limited Liability Company", "pipeline", "Wells Fargo", "sustained release", "Arbitrage", "stake", "investigational drug", "Arenberg", "ADHD", "Citigroup", "small molecule" ],
+      "hashtags": [ "#NASDAQ", "#NASDAQ", "#LimitedLiabilityCompany", "#WellsFargo", "#Citigroup", "#BNPParibas", "#Arbitrage", "#Cubism", "#Stake", "#Piedmont", "#Common", "#Biopharmaceutical", "#Epigenetics", "#DrugDelivery", "#MarketCapitalization", "#TheFirm", "#Osmosis", "#Mouse", "#Biodegradation", "#Polymer", "#Medication", "#MedicalDevice", "#PipelineTransport", "#InvestigationalNewDrug", "#DUR", "#AsteroidFamily", "#Endogeny", "#Bioavailability", "#SmallMolecule", "#Lipid", "#Homeostasis", "#Inflammation", "#Arenberg", "#ChiefFinancialOfficer", "#ModifiedreleaseDosage", "#Capsule", "#ADHD", "#AttentionDeficitHyperactivityDisorder", "#Taiwan", "#NielsenRatings" ],
+      "characters_count": 3442,
+      "words_count": 545,
+      "sentences_count": 35,
+      "paragraphs_count": 7,
+      "categories": [
+        {
+          "id": "IAB13",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.45,
+          "confident": true,
+          "links": { "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13" }
+        },
+        {
+          "id": "IAB13-11",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.23,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13-11",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13"
+          }
+        },
+        {
+          "id": "04002000",
+          "taxonomy": "iptc-subjectcode",
+          "level": 2,
+          "score": 0.05,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/04002000",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/04000000"
+          }
+        }
+      ],
+      "social_shares_count": {
+        "facebook": [],
+        "google_plus": [],
+        "linkedin": [],
+        "reddit": []
+      },
+      "media": [
+        {
+          "type": "image",
+          "url": "https://teletechwire.com/wp-content/uploads/logos/Logos/DRRX.png"
+        }
+      ],
+      "sentiment": {
+        "title": {
+          "polarity": "neutral",
+          "score": 0.670072
+        },
+        "body": {
+          "polarity": "negative",
+          "score": 0.599221
+        }
+      },
+      "language": "en",
+      "published_at": "2018-10-14T01:04:46Z",
+      "links": {
+        "permalink": "https://whatsonthorold.com/2018/10/14/eps-for-durect-corporation-drrx-expected-at-0-03-2/",
+        "related_stories": "https://api.newsapi.aylien.com/api/v1/related_stories?story_id=183892416",
+        "coverages": "https://api.newsapi.aylien.com/api/v1/coverages?story_id=183892416"
+      }
+    },
+    {
+      "id": 183892425,
+      "title": "$2.00 EPS Expected for The Dun & Bradstreet Corporation (DNB)",
+      "body": "$2.00 EPS Expected for The Dun  Bradstreet Corporation  14, 2018 - By Marguerite  Analysts expect The Dun  Bradstreet Corporation (NYSE:DNB) to report $2.00 EPS on November, 7.They anticipate $0.21 EPS change or 11.73 % from last quarter’s $1.79 EPS. DNB’s profit would be $74.26 million giving it 17.78 P/E if the $2.00 EPS is correct. After having $1.40 EPS previously, The Dun  Bradstreet Corporation’s analysts see 42.86 % EPS growth. The stock increased 0.17% or $0.24 during the last trading session, reaching $142.21. About 993,607 shares traded or 48.66% up from the average. The Dun  Bradstreet Corporation (NYSE:DNB) has risen 27.23% since October 14, 2017 and is uptrending. It has outperformed by 11.61% the SP500.\n\n\n\n\n\nThe Dun  Bradstreet Corporation (NYSE:DNB) Ratings Coverage\n\nAmong 3 analysts covering Dun  Bradstreet Corp (NYSE:DNB), 0 have Buy rating, 0 Sell and 3 Hold. Therefore 0 are positive. Dun  Bradstreet Corp had 5 analyst reports since May 11, 2018 according to SRatingsIntel. Wells Fargo maintained it with “Market Perform” rating and $120 target in Monday, June 25 report. Robert W. Baird maintained it with “Neutral” rating and $145 target in Thursday, August 9 report. As per Friday, May 11, the company rating was maintained by Robert W. Baird. The firm has “Neutral” rating given on Monday, June 18 by Robert W. Baird. The company was downgraded on Friday, August 10 by Barclays Capital.\n\nThe Dun  Bradstreet Corporation provides commercial data, analytics, and insights on businesses worldwide. The company has market cap of $5.28 billion. It offers risk management solutions, including DNBi and DB Credit, which are subscription based online applications that provide clients real time access to global information, monitoring, and portfolio analysis; various business information reports; DB Direct, an application programming interface that enables data integration inside enterprise resource planning applications, and master data management and toolkit; credit monitoring solutions; Supplier Risk Manager, an online application, which helps businesses to mitigate supply chain risk; and Onboard and Compliance Check that are online applications that help clients comply with anti-money laundering. It has a 22.33 P/E ratio. The firm also offers sales and marketing solutions, such as customer data management solutions to clean, identify, link, and enrich customer information; DB Optimizer solution that transforms customer prospects and data into commercial insight; Hoover's that provides information on public and private companies, industries and executives, sales, and marketing and research professionals; Market Insight tools that enable clients to understand existing clients in order to create campaigns to cross-sell new business; Audience Solutions, which enable advertisers and companies to target professionals in various ways; and various other marketing solutions.\n\n\nMore important recent The Dun  Bradstreet Corporation (NYSE:DNB) news were published by: Streetinsider.com which released: “Dun  Bradstreet (DNB) Announces Expiration of ‘Go Shop’ Period” on September 24, 2018, also Seekingalpha.com published article titled: “Merger Arbitrage Mondays – October 1, 2018”, Gurufocus.com published: “Faruqi  Faruqi, LLP Announces Filing of a Class Action Lawsuit Against The Dun  Bradstreet Corporation” on October 10, 2018. More interesting news about The Dun  Bradstreet Corporation (NYSE:DNB) was released by: Seekingalpha.com and their article: “Banks need to “disrupt themselves” before someone else does: Morgan Stanley” with publication date: September 17, 2018.\n\n\n\n\n\n\n\n\t \t\t\n\nReceive News  Ratings Via Email - Enter your email address below to receive a concise daily summary of the latest news and analysts' ratings with our FREE daily email   By Marguerite Chambers",
+      "summary": { "sentences": [ "The Dun  Bradstreet Corporation (NYSE:DNB) Ratings Coverage\n\nAmong 3 analysts covering Dun  Bradstreet Corp (NYSE:DNB), 0 have Buy rating, 0 Sell and 3 Hold.", "The Dun  Bradstreet Corporation provides commercial data, analytics, and insights on businesses worldwide.", "It offers risk management solutions, including DNBi and DB Credit, which are subscription based online applications that provide clients real time access to global information, monitoring, and portfolio analysis; various business information reports; DB Direct, an application programming interface that enables data integration inside enterprise resource planning applications, and master data management and toolkit; credit monitoring solutions; Supplier Risk Manager, an online application, which helps businesses to mitigate supply chain risk; and Onboard and Compliance Check that are online applications that help clients comply with anti-money laundering.", "The firm also offers sales and marketing solutions, such as customer data management solutions to clean, identify, link, and enrich customer information; DB Optimizer solution that transforms customer prospects and data into commercial insight; Hoover's that provides information on public and private companies, industries and executives, sales, and marketing and research professionals; Market Insight tools that enable clients to understand existing clients in order to create campaigns to cross-sell new business; Audience Solutions, which enable advertisers and companies to target professionals in various ways; and various other marketing solutions.", "More important recent The Dun  Bradstreet Corporation (NYSE:DNB) news were published by: Streetinsider.com which released: “Dun  Bradstreet (DNB) Announces Expiration of ‘Go Shop’ Period” on September 24, 2018, also Seekingalpha.com published article titled: “Merger Arbitrage Mondays – October 1, 2018”, Gurufocus.com published: “Faruqi  Faruqi, LLP Announces Filing of a Class Action Lawsuit Against The Dun  Bradstreet Corporation” on October 10, 2018." ] },
+      "source": {
+        "id": 8703,
+        "name": "Whats On Thorold",
+        "title": "whatsonthorold.com/",
+        "links_in_count": 25,
+        "home_page_url": "https://www.whatsonthorold.com/",
+        "domain": "whatsonthorold.com",
+        "locations": [ { "country": "US" } ],
+        "scopes": [ { "level": "international" } ],
+        "rankings": {
+          "alexa": [
+            {
+              "rank": 1329771,
+              "fetched_at": "2018-05-22T14:39:49Z"
+            }
+          ]
+        }
+      },
+      "author": {
+        "id": 2346200,
+        "name": "Marguerite Chambers"
+      },
+      "entities": {
+        "title": [
+          {
+            "text": "Dun & Bradstreet",
+            "score": 0.9999995827674866,
+            "types": [ "Company", "Agent", "Organisation" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Dun_&_Bradstreet" },
+            "indices": [ [ 27, 42 ] ]
+          },
+          {
+            "text": "EPS",
+            "types": [ "Organisation" ],
+            "indices": [ [ 6, 8 ] ]
+          },
+          {
+            "text": "The Dun & Bradstreet Corporation",
+            "types": [ "Organisation" ],
+            "indices": [ [ 23, 54 ] ]
+          }
+        ],
+        "body": [
+          {
+            "text": "ratings",
+            "score": 0.9283981323242188,
+            "types": [ "Place", "Systems" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Nielsen_ratings" },
+            "indices": [ [ 3771, 3777 ] ]
+          },
+          {
+            "text": "market cap",
+            "score": 1.0,
+            "types": [ "Value", "Company" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Market_capitalization" },
+            "indices": [ [ 1547, 1556 ] ]
+          },
+          {
+            "text": "master data management",
+            "score": 1.0,
+            "types": [ "MusicGenre" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Master_data_management" },
+            "indices": [ [ 1959, 1980 ] ]
+          },
+          {
+            "text": "Morgan Stanley",
+            "score": 1.0,
+            "types": [ "Corporation", "Organisation", "Bank", "Agent", "Company" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Morgan_Stanley" },
+            "indices": [ [ 3566, 3579 ] ]
+          },
+          {
+            "text": "P/E",
+            "score": 1.0,
+            "types": [ "Ratio" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Price–earnings_ratio" },
+            "indices": [
+              [ 304, 306 ],
+              [ 2254, 2256 ]
+            ]
+          },
+          {
+            "text": "P/E ratio",
+            "score": 1.0,
+            "types": [ "Ratio" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Price–earnings_ratio" },
+            "indices": [ [ 2254, 2262 ] ]
+          },
+          {
+            "text": "The firm",
+            "score": 0.3078118860721588,
+            "types": [ "Work", "product", "Wikidata:Q11424", "Film" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/The_Firm_(1993_film)" },
+            "indices": [
+              [ 1279, 1286 ],
+              [ 2265, 2272 ]
+            ]
+          },
+          {
+            "text": "cross-sell",
+            "score": 1.0,
+            "types": [ "MilitaryConflict", "Action" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Cross-selling" },
+            "indices": [ [ 2758, 2767 ] ]
+          },
+          {
+            "text": "application programming interface",
+            "score": 1.0,
+            "types": [ "Set", "MusicGenre" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Application_programming_interface" },
+            "indices": [ [ 1841, 1873 ] ]
+          },
+          {
+            "text": "enterprise resource planning",
+            "score": 1.0,
+            "types": [ "Category", "MusicGenre", "TelevisionStation" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Enterprise_resource_planning" },
+            "indices": [ [ 1912, 1939 ] ]
+          },
+          {
+            "text": "supply chain",
+            "score": 0.9952213764190674,
+            "types": [ "System", "MusicGenre" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Supply_chain" },
+            "indices": [ [ 2105, 2116 ] ]
+          },
+          {
+            "text": "data integration",
+            "score": 1.0,
+            "types": [ "MusicGenre" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Data_integration" },
+            "indices": [ [ 1888, 1903 ] ]
+          },
+          {
+            "text": "Wells Fargo",
+            "score": 0.9995306730270386,
+            "types": [ "Bank", "Banking", "Organisation", "Agent", "Company" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Wells_Fargo" },
+            "indices": [ [ 1006, 1016 ] ]
+          },
+          {
+            "text": "NYSE",
+            "score": 0.9990081787109375,
+            "types": [ "Location", "Building", "ArchitecturalStructure", "Exchange", "Place", "Company", "Organisation" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/New_York_Stock_Exchange" },
+            "indices": [
+              [ 131, 134 ],
+              [ 617, 620 ],
+              [ 765, 768 ],
+              [ 841, 844 ],
+              [ 2979, 2982 ],
+              [ 3441, 3444 ]
+            ]
+          },
+          {
+            "text": "anti-money laundering",
+            "score": 1.0,
+            "types": [ "PersonFunction", "Process", "Election" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Money_laundering" },
+            "indices": [ [ 2216, 2236 ] ]
+          },
+          {
+            "text": "Arbitrage",
+            "score": 0.9823686480522156,
+            "types": [ "Practice", "Company" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Arbitrage" },
+            "indices": [ [ 3191, 3199 ] ]
+          },
+          {
+            "text": "Class Action",
+            "score": 0.9828286170959473,
+            "types": [ "Lawsuit" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Class_action" },
+            "indices": [ [ 3297, 3308 ] ]
+          },
+          {
+            "text": "risk management",
+            "score": 0.9960099458694458,
+            "types": [ "Identification", "Organisation", "MusicGenre" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Risk_management" },
+            "indices": [ [ 1586, 1600 ] ]
+          },
+          {
+            "text": "Barclays Capital",
+            "score": 1.0,
+            "types": [ "Division", "Organisation", "Bank", "Agent", "Company" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Barclays_Investment_Bank" },
+            "indices": [ [ 1405, 1420 ] ]
+          },
+          {
+            "text": "Ratings Coverage",
+            "types": [ "Person" ],
+            "indices": [ [ 775, 790 ] ]
+          },
+          {
+            "text": "Buy",
+            "types": [ "Person" ],
+            "indices": [ [ 859, 861 ] ]
+          },
+          {
+            "text": "Robert W. Baird",
+            "types": [ "Person" ],
+            "indices": [
+              [ 1104, 1118 ],
+              [ 1262, 1276 ],
+              [ 1337, 1351 ]
+            ]
+          },
+          {
+            "text": "DB Credit",
+            "types": [ "Person" ],
+            "indices": [ [ 1632, 1640 ] ]
+          },
+          {
+            "text": "DB Direct",
+            "types": [ "Person" ],
+            "indices": [ [ 1827, 1835 ] ]
+          },
+          {
+            "text": "DB Optimizer",
+            "types": [ "Person" ],
+            "indices": [ [ 2419, 2430 ] ]
+          },
+          {
+            "text": "Hoover",
+            "types": [ "Person" ],
+            "indices": [ [ 2510, 2515 ] ]
+          },
+          {
+            "text": "Market Perform",
+            "types": [ "product" ],
+            "indices": [ [ 1038, 1051 ] ]
+          },
+          {
+            "text": "EPS",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 6, 8 ],
+              [ 157, 159 ],
+              [ 198, 200 ],
+              [ 246, 248 ],
+              [ 321, 323 ],
+              [ 356, 358 ],
+              [ 427, 429 ]
+            ]
+          },
+          {
+            "text": "The Dun  Bradstreet Corporation",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 23, 53 ],
+              [ 98, 128 ],
+              [ 372, 402 ],
+              [ 584, 614 ],
+              [ 732, 762 ],
+              [ 1424, 1454 ],
+              [ 2946, 2976 ],
+              [ 3326, 3356 ],
+              [ 3408, 3438 ]
+            ]
+          },
+          {
+            "text": "Dun  Bradstreet Corp",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 819, 838 ],
+              [ 916, 935 ]
+            ]
+          },
+          {
+            "text": "Onboard and Compliance Check",
+            "types": [ "Organisation" ],
+            "indices": [ [ 2128, 2155 ] ]
+          },
+          {
+            "text": "Market Insight",
+            "types": [ "Organisation" ],
+            "indices": [ [ 2654, 2667 ] ]
+          },
+          {
+            "text": "Audience Solutions",
+            "types": [ "Organisation" ],
+            "indices": [ [ 2783, 2800 ] ]
+          },
+          {
+            "text": "More",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 2924, 2927 ],
+              [ 3380, 3383 ]
+            ]
+          },
+          {
+            "text": "Streetinsider.com",
+            "types": [ "Organisation" ],
+            "indices": [ [ 3013, 3029 ] ]
+          },
+          {
+            "text": "Announces Expiration",
+            "types": [ "Organisation" ],
+            "indices": [ [ 3070, 3089 ] ]
+          },
+          {
+            "text": "Seekingalpha.com",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 3140, 3155 ],
+              [ 3468, 3483 ]
+            ]
+          },
+          {
+            "text": "Gurufocus.com",
+            "types": [ "Organisation" ],
+            "indices": [ [ 3229, 3241 ] ]
+          },
+          {
+            "text": "Receive News",
+            "types": [ "Organisation" ],
+            "indices": [ [ 3638, 3649 ] ]
+          },
+          {
+            "text": "FREE",
+            "types": [ "Organisation" ],
+            "indices": [ [ 3788, 3791 ] ]
+          },
+          {
+            "text": "Marguerite Chambers",
+            "types": [ "Organisation" ],
+            "indices": [ [ 3810, 3828 ] ]
+          }
+        ]
+      },
+      "keywords": [ "Bradstreet", "Corporation", "Expected", "Dun & Bradstreet", "Bradstreet Corporation", "company rating", "marketing solutions", "applications", "Ratings", "data", "Market", "businesses", "company", "reports", "solutions", "Analysts", "clients", "news", "NYSE", "management", "risk", "ratings", "market cap", "master data management", "Morgan Stanley", "P/E", "P/E ratio", "The firm", "cross-sell", "application programming interface", "enterprise resource planning", "supply chain", "data integration", "Wells Fargo", "anti-money laundering", "Arbitrage", "Class Action", "risk management", "Barclays Capital" ],
+      "hashtags": [ "#NYSE", "#NewYorkStockExchange", "#Price–earningsRatio", "#TheFirm", "#DunBradstreet", "#WellsFargo", "#BarclaysInvestmentBank", "#MarketCapitalization", "#RiskManagement", "#ApplicationProgrammingInterface", "#DataIntegration", "#EnterpriseResourcePlanning", "#MasterDataManagement", "#SupplyChain", "#MoneyLaundering", "#Crossselling", "#Arbitrage", "#ClassAction", "#MorganStanley", "#NielsenRatings" ],
+      "characters_count": 3829,
+      "words_count": 591,
+      "sentences_count": 24,
+      "paragraphs_count": 7,
+      "categories": [
+        {
+          "id": "IAB13",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.36,
+          "confident": true,
+          "links": { "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13" }
+        },
+        {
+          "id": "IAB13-11",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.2,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13-11",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13"
+          }
+        },
+        {
+          "id": "04016029",
+          "taxonomy": "iptc-subjectcode",
+          "level": 3,
+          "score": 0.16,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/04016029",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/04016000"
+          }
+        }
+      ],
+      "social_shares_count": {
+        "facebook": [],
+        "google_plus": [],
+        "linkedin": [],
+        "reddit": []
+      },
+      "media": [
+        {
+          "type": "image",
+          "url": "https://teletechwire.com/wp-content/uploads/logos/Logos/DNB.png"
+        }
+      ],
+      "sentiment": {
+        "title": {
+          "polarity": "neutral",
+          "score": 0.639603
+        },
+        "body": {
+          "polarity": "negative",
+          "score": 0.680596
+        }
+      },
+      "language": "en",
+      "published_at": "2018-10-14T01:04:46Z",
+      "links": {
+        "permalink": "https://whatsonthorold.com/2018/10/14/2-00-eps-expected-for-the-dun-bradstreet-corporation-dnb/",
+        "related_stories": "https://api.newsapi.aylien.com/api/v1/related_stories?story_id=183892425",
+        "coverages": "https://api.newsapi.aylien.com/api/v1/coverages?story_id=183892425"
+      }
+    },
+    {
+      "id": 183892427,
+      "title": "EPS for Ducommun Incorporated (DCO) Expected At $0.50",
+      "body": "EPS for Ducommun Incorporated (DCO) Expected At  14, 2018 - By Nellie  sentiment increased to 1.39 in 2018 Q2. Its up 0.52, from 0.87 in 2018Q1. It improved, as 4 investors sold Ducommun Incorporated shares while 29 reduced holdings. 14 funds opened positions while 32 raised stakes. 8.97 million shares or 1.71% less from 9.12 million shares in 2018Q1 were reported.\n\n 44,000 were reported by Gabelli Funds Ltd. Renaissance Tech Ltd holds 550,100 shares or 0.02% of its portfolio. Wells Fargo And Commerce Mn invested 0% in Ducommun Incorporated (NYSE:DCO). Federated Invsts Pa holds 12,265 shares. Moreover, Paradigm Capital Management Ny has 1.81% invested in Ducommun Incorporated (NYSE:DCO). Bridgeway Capital Management owns 97,550 shares. Acadian Asset Limited Liability Corporation holds 33,545 shares. Vanguard Incorporated reported 507,808 shares. Teton Advsr invested in 0.36% or 123,485 shares. Morgan Stanley holds 64,583 shares or 0% of its portfolio. Blackrock Inc accumulated 738,789 shares. Amer Gp invested in 6,931 shares or 0% of the stock. Goldman Sachs Group Inc stated it has 0% of its portfolio in Ducommun Incorporated (NYSE:DCO). California Public Employees Retirement has invested 0% in Ducommun Incorporated (NYSE:DCO). The New Jersey-based Bessemer Group has invested 0% in Ducommun Incorporated (NYSE:DCO).\n\n\nSince May 22, 2018, it had 0 insider buys, and 7 sales for $713,526 activity. Wampler Christopher D. had sold 1,550 shares worth $53,940 on Friday, June 8. The insider DUCOMMUN ROBERT C sold 5,000 shares worth $203,799.\n\n\n\n\n Analysts expect Ducommun Incorporated (NYSE:DCO) to report $0.50 EPS on November, 7.They anticipate $0.09 EPS change or 21.95 % from last quarter’s $0.41 EPS. DCO’s profit would be $5.70M giving it 18.84 P/E if the $0.50 EPS is correct. After having $0.37 EPS previously, Ducommun Incorporated’s analysts see 35.14 % EPS growth. The stock decreased 0.05% or $0.02 during the last trading session, reaching $37.68. About 29,578 shares traded. Ducommun Incorporated (NYSE:DCO) has risen 35.91% since October 14, 2017 and is uptrending. It has outperformed by 20.29% the SP500.\n\n\nDucommun Incorporated (NYSE:DCO) Ratings Coverage\n\nAmong 2 analysts covering Ducommun (NYSE:DCO), 2 have Buy rating, 0 Sell and 0 Hold. Therefore 100% are positive. Ducommun had 2 analyst reports since May 21, 2018 according to SRatingsIntel. FBR Capital maintained it with “Buy” rating and $42 target in Tuesday, August 7 report. The stock of Ducommun Incorporated (NYSE:DCO) has “Buy” rating given on Monday, May 21 by Canaccord Genuity.\n\nDucommun Incorporated provides engineering and manufacturing services and products primarily to the aerospace, defense, industrial, natural resources, medical, and other industries in the United States. The company has market cap of $429.61 million. The firm operates through two divisions, Electronic Systems and Structural Systems (SS). It has a 23.73 P/E ratio. The ES segment offers cable assemblies and interconnect systems; printed circuit board assemblies; higher-level electronic, electromechanical, and mechanical assemblies; radar enclosures; aircraft avionics racks; shipboard communications and control enclosures; wire harnesses; and other high-level complex assemblies.\n\n\n\n\n\n\n\n\n\t \t\t\n\nReceive News  Ratings Via Email - Enter your email address below to receive a concise daily summary of the latest news and analysts' ratings with our FREE daily email   By Nellie Frank",
+      "summary": { "sentences": [ "Moreover, Paradigm Capital Management Ny has 1.81% invested in Ducommun Incorporated (NYSE:DCO).", "Goldman Sachs Group Inc stated it has 0% of its portfolio in Ducommun Incorporated (NYSE:DCO).", "California Public Employees Retirement has invested 0% in Ducommun Incorporated (NYSE:DCO).", "The New Jersey-based Bessemer Group has invested 0% in Ducommun Incorporated (NYSE:DCO).", "The ES segment offers cable assemblies and interconnect systems; printed circuit board assemblies; higher-level electronic, electromechanical, and mechanical assemblies; radar enclosures; aircraft avionics racks; shipboard communications and control enclosures; wire harnesses; and other high-level complex assemblies." ] },
+      "source": {
+        "id": 8703,
+        "name": "Whats On Thorold",
+        "title": "whatsonthorold.com/",
+        "links_in_count": 25,
+        "home_page_url": "https://www.whatsonthorold.com/",
+        "domain": "whatsonthorold.com",
+        "locations": [ { "country": "US" } ],
+        "scopes": [ { "level": "international" } ],
+        "rankings": {
+          "alexa": [
+            {
+              "rank": 1329771,
+              "fetched_at": "2018-05-22T14:39:49Z"
+            }
+          ]
+        }
+      },
+      "author": {
+        "id": 2345702,
+        "name": "Nellie Frank"
+      },
+      "entities": {
+        "title": [
+          {
+            "text": "EPS",
+            "types": [ "Organisation" ],
+            "indices": [ [ 0, 2 ] ]
+          },
+          {
+            "text": "Ducommun Incorporated",
+            "types": [ "Organisation" ],
+            "indices": [ [ 8, 28 ] ]
+          },
+          {
+            "text": "DCO",
+            "types": [ "Organisation" ],
+            "indices": [ [ 31, 33 ] ]
+          }
+        ],
+        "body": [
+          {
+            "text": "ratings",
+            "score": 0.9132834076881409,
+            "types": [ "Place", "Systems" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Nielsen_ratings" },
+            "indices": [ [ 3413, 3419 ] ]
+          },
+          {
+            "text": "market cap",
+            "score": 1.0,
+            "types": [ "Value", "Company" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Market_capitalization" },
+            "indices": [ [ 2801, 2810 ] ]
+          },
+          {
+            "text": "Bessemer",
+            "score": 0.5784931778907776,
+            "types": [ "Location", "City", "PopulatedPlace", "Settlement", "Place" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Bessemer,_Alabama" },
+            "indices": [ [ 1269, 1276 ] ]
+          },
+          {
+            "text": "engineering",
+            "score": 0.7630114555358887,
+            "types": [ "Software", "product", "PersonFunction", "Application" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Engineering" },
+            "indices": [ [ 2613, 2623 ] ]
+          },
+          {
+            "text": "avionics",
+            "score": 1.0,
+            "types": [ "Systems", "Place", "MusicGenre" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Avionics" },
+            "indices": [ [ 3144, 3151 ] ]
+          },
+          {
+            "text": "Acadian",
+            "score": 0.9963349103927612,
+            "types": [ "Descendants", "EthnicGroup" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Acadians" },
+            "indices": [ [ 746, 752 ] ]
+          },
+          {
+            "text": "Morgan Stanley",
+            "score": 1.0,
+            "types": [ "Corporation", "Organisation", "Bank", "Agent", "Company" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Morgan_Stanley" },
+            "indices": [ [ 907, 920 ] ]
+          },
+          {
+            "text": "P/E",
+            "score": 1.0,
+            "types": [ "Ratio" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Price–earnings_ratio" },
+            "indices": [
+              [ 1768, 1770 ],
+              [ 2936, 2938 ]
+            ]
+          },
+          {
+            "text": "P/E ratio",
+            "score": 1.0,
+            "types": [ "Ratio" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Price–earnings_ratio" },
+            "indices": [ [ 2936, 2944 ] ]
+          },
+          {
+            "text": "United States",
+            "score": 0.9998461008071899,
+            "types": [ "Republic", "Location", "PopulatedPlace", "Country", "Person", "Place" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/United_States" },
+            "indices": [ [ 2770, 2782 ] ]
+          },
+          {
+            "text": "Renaissance",
+            "score": 0.9695262312889099,
+            "types": [ "Country", "MusicGenre", "Period" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Renaissance" },
+            "indices": [ [ 413, 423 ] ]
+          },
+          {
+            "text": "radar",
+            "score": 0.9994521737098694,
+            "types": [ "System" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Radar" },
+            "indices": [ [ 3117, 3121 ] ]
+          },
+          {
+            "text": "cable",
+            "score": 0.9807643890380859,
+            "types": [ "System" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Cable_television" },
+            "indices": [ [ 2969, 2973 ] ]
+          },
+          {
+            "text": "The firm",
+            "score": 0.2993554472923279,
+            "types": [ "Work", "product", "Wikidata:Q11424", "Film" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/The_Firm_(1993_film)" },
+            "indices": [ [ 2832, 2839 ] ]
+          },
+          {
+            "text": "The insider",
+            "score": 0.5607612729072571,
+            "types": [ "Work", "product", "American", "Person", "TelevisionShow" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/The_Insider_(TV_series)" },
+            "indices": [ [ 1495, 1505 ] ]
+          },
+          {
+            "text": "Vanguard",
+            "score": 0.6762162446975708,
+            "types": [ "Label", "Agent", "Organisation", "RecordLabel", "Company" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Vanguard_Records" },
+            "indices": [ [ 811, 818 ] ]
+          },
+          {
+            "text": "Goldman Sachs",
+            "score": 0.9999637603759766,
+            "types": [ "Organisation", "Bank", "Agent", "Company" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Goldman_Sachs" },
+            "indices": [ [ 1061, 1073 ] ]
+          },
+          {
+            "text": "California",
+            "score": 0.9997836947441101,
+            "types": [ "Location", "PopulatedPlace", "Settlement", "AdministrativeRegion", "Region", "Place" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/California" },
+            "indices": [ [ 1156, 1165 ] ]
+          },
+          {
+            "text": "SS",
+            "score": 0.9875566959381104,
+            "types": [ "MilitaryUnit", "Organization", "Organisation", "GovernmentAgency", "Agent" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Schutzstaffel" },
+            "indices": [ [ 2916, 2917 ] ]
+          },
+          {
+            "text": "Wells Fargo",
+            "score": 0.9993530511856079,
+            "types": [ "Bank", "Banking", "Organisation", "Agent", "Company" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Wells_Fargo" },
+            "indices": [ [ 482, 492 ] ]
+          },
+          {
+            "text": "NYSE",
+            "score": 0.9990044236183167,
+            "types": [ "Location", "Building", "ArchitecturalStructure", "Exchange", "Place", "Company", "Organisation" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/New_York_Stock_Exchange" },
+            "indices": [
+              [ 548, 551 ],
+              [ 686, 689 ],
+              [ 1145, 1148 ],
+              [ 1237, 1240 ],
+              [ 1326, 1329 ],
+              [ 1603, 1606 ],
+              [ 2029, 2032 ],
+              [ 2164, 2167 ],
+              [ 2228, 2231 ],
+              [ 2508, 2511 ]
+            ]
+          },
+          {
+            "text": "Blackrock",
+            "score": 0.761151134967804,
+            "types": [ "G", "Device", "product", "SoccerClub" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Blackrock_GAA" },
+            "indices": [ [ 966, 974 ] ]
+          },
+          {
+            "text": "aerospace",
+            "score": 0.9416828751564026,
+            "types": [ "Organisation", "MusicGenre", "Effort" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Aerospace" },
+            "indices": [ [ 2682, 2690 ] ]
+          },
+          {
+            "text": "New Jersey",
+            "types": [ "Place" ],
+            "indices": [ [ 1252, 1261 ] ]
+          },
+          {
+            "text": "Nellie",
+            "types": [ "Person" ],
+            "indices": [
+              [ 63, 68 ],
+              [ 3452, 3457 ]
+            ]
+          },
+          {
+            "text": "Federated Invsts",
+            "types": [ "Person" ],
+            "indices": [ [ 559, 574 ] ]
+          },
+          {
+            "text": "Teton Advsr",
+            "types": [ "Person" ],
+            "indices": [ [ 858, 868 ] ]
+          },
+          {
+            "text": "Amer Gp",
+            "types": [ "Person" ],
+            "indices": [ [ 1008, 1014 ] ]
+          },
+          {
+            "text": "Wampler Christopher D",
+            "types": [ "Person" ],
+            "indices": [ [ 1417, 1437 ] ]
+          },
+          {
+            "text": "Ratings Coverage",
+            "types": [ "Person" ],
+            "indices": [ [ 2174, 2189 ] ]
+          },
+          {
+            "text": "Ducommun",
+            "types": [ "Person" ],
+            "indices": [
+              [ 8, 15 ],
+              [ 178, 185 ],
+              [ 525, 532 ],
+              [ 663, 670 ],
+              [ 1122, 1129 ],
+              [ 1214, 1221 ],
+              [ 1303, 1310 ],
+              [ 1580, 1587 ],
+              [ 1836, 1843 ],
+              [ 2006, 2013 ],
+              [ 2141, 2148 ],
+              [ 2218, 2225 ],
+              [ 2306, 2313 ],
+              [ 2485, 2492 ],
+              [ 2582, 2589 ]
+            ]
+          },
+          {
+            "text": "Buy",
+            "types": [ "Person" ],
+            "indices": [
+              [ 2246, 2248 ],
+              [ 2416, 2418 ],
+              [ 2523, 2525 ]
+            ]
+          },
+          {
+            "text": "Nellie Frank",
+            "types": [ "Person" ],
+            "indices": [ [ 3452, 3463 ] ]
+          },
+          {
+            "text": "DUCOMMUN ROBERT C",
+            "types": [ "product" ],
+            "indices": [ [ 1507, 1523 ] ]
+          },
+          {
+            "text": "SP500",
+            "types": [ "product" ],
+            "indices": [ [ 2132, 2136 ] ]
+          },
+          {
+            "text": "EPS",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 0, 2 ],
+              [ 1629, 1631 ],
+              [ 1670, 1672 ],
+              [ 1718, 1720 ],
+              [ 1785, 1787 ],
+              [ 1820, 1822 ],
+              [ 1881, 1883 ]
+            ]
+          },
+          {
+            "text": "Ducommun Incorporated",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 8, 28 ],
+              [ 178, 198 ],
+              [ 525, 545 ],
+              [ 663, 683 ],
+              [ 1122, 1142 ],
+              [ 1214, 1234 ],
+              [ 1303, 1323 ],
+              [ 1580, 1600 ],
+              [ 1836, 1856 ],
+              [ 2006, 2026 ],
+              [ 2141, 2161 ],
+              [ 2485, 2505 ],
+              [ 2582, 2602 ]
+            ]
+          },
+          {
+            "text": "DCO",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 31, 33 ],
+              [ 553, 555 ],
+              [ 691, 693 ],
+              [ 1150, 1152 ],
+              [ 1242, 1244 ],
+              [ 1331, 1333 ],
+              [ 1608, 1610 ],
+              [ 1723, 1725 ],
+              [ 2034, 2036 ],
+              [ 2169, 2171 ],
+              [ 2233, 2235 ],
+              [ 2513, 2515 ]
+            ]
+          },
+          {
+            "text": "Gabelli Funds Ltd",
+            "types": [ "Organisation" ],
+            "indices": [ [ 394, 410 ] ]
+          },
+          {
+            "text": "Renaissance Tech Ltd",
+            "types": [ "Organisation" ],
+            "indices": [ [ 413, 432 ] ]
+          },
+          {
+            "text": "Commerce",
+            "types": [ "Organisation" ],
+            "indices": [ [ 498, 505 ] ]
+          },
+          {
+            "text": "Paradigm Capital Management Ny",
+            "types": [ "Organisation" ],
+            "indices": [ [ 610, 639 ] ]
+          },
+          {
+            "text": "Bridgeway Capital Management",
+            "types": [ "Organisation" ],
+            "indices": [ [ 697, 724 ] ]
+          },
+          {
+            "text": "Acadian Asset Limited Liability Corporation",
+            "types": [ "Organisation" ],
+            "indices": [ [ 746, 788 ] ]
+          },
+          {
+            "text": "Vanguard Incorporated",
+            "types": [ "Organisation" ],
+            "indices": [ [ 811, 831 ] ]
+          },
+          {
+            "text": "Blackrock Inc",
+            "types": [ "Organisation" ],
+            "indices": [ [ 966, 978 ] ]
+          },
+          {
+            "text": "Goldman Sachs Group Inc",
+            "types": [ "Organisation" ],
+            "indices": [ [ 1061, 1083 ] ]
+          },
+          {
+            "text": "California Public Employees Retirement",
+            "types": [ "Organisation" ],
+            "indices": [ [ 1156, 1193 ] ]
+          },
+          {
+            "text": "Bessemer Group",
+            "types": [ "Organisation" ],
+            "indices": [ [ 1269, 1282 ] ]
+          },
+          {
+            "text": "FBR Capital",
+            "types": [ "Organisation" ],
+            "indices": [ [ 2384, 2394 ] ]
+          },
+          {
+            "text": "Canaccord Genuity",
+            "types": [ "Organisation" ],
+            "indices": [ [ 2562, 2578 ] ]
+          },
+          {
+            "text": "Electronic Systems",
+            "types": [ "Organisation" ],
+            "indices": [ [ 2873, 2890 ] ]
+          },
+          {
+            "text": "Structural Systems",
+            "types": [ "Organisation" ],
+            "indices": [ [ 2896, 2913 ] ]
+          },
+          {
+            "text": "ES",
+            "types": [ "Organisation" ],
+            "indices": [ [ 2951, 2952 ] ]
+          },
+          {
+            "text": "Receive News",
+            "types": [ "Organisation" ],
+            "indices": [ [ 3280, 3291 ] ]
+          },
+          {
+            "text": "FREE",
+            "types": [ "Organisation" ],
+            "indices": [ [ 3430, 3433 ] ]
+          }
+        ]
+      },
+      "keywords": [ "Ducommun Incorporated", "Incorporated", "Ducommun", "shares", "NYSE", "assemblies", "Ratings", "enclosures", "Analysts", "Electronic", "portfolio", "industrial", "Capital", "stock", "News", "ratings", "market cap", "Bessemer", "engineering", "avionics", "Acadian", "Morgan Stanley", "P/E", "P/E ratio", "United States", "Renaissance", "radar", "cable", "The firm", "printed circuit board", "The insider", "Vanguard", "Goldman Sachs", "California", "SS", "Wells Fargo", "Blackrock", "natural resources", "aerospace", "electromechanical" ],
+      "hashtags": [ "#NYSE", "#NewYorkStockExchange", "#Price–earningsRatio", "#Renaissance", "#WellsFargo", "#Acadians", "#VanguardRecords", "#MorganStanley", "#BlackrockGAA", "#GoldmanSachs", "#California", "#BessemerAlabama", "#TheInsider", "#Engineering", "#Aerospace", "#NaturalResource", "#UnitedStates", "#MarketCapitalization", "#TheFirm", "#SS", "#Schutzstaffel", "#CableTelevision", "#PrintedCircuitBoard", "#Electromechanics", "#Radar", "#Avionics", "#NielsenRatings" ],
+      "characters_count": 3464,
+      "words_count": 569,
+      "sentences_count": 42,
+      "paragraphs_count": 9,
+      "categories": [
+        {
+          "id": "IAB13",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.47,
+          "confident": true,
+          "links": { "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13" }
+        },
+        {
+          "id": "IAB13-11",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.17,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13-11",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13"
+          }
+        },
+        {
+          "id": "04011002",
+          "taxonomy": "iptc-subjectcode",
+          "level": 3,
+          "score": 0.04,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/04011002",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/04011000"
+          }
+        }
+      ],
+      "social_shares_count": {
+        "facebook": [],
+        "google_plus": [],
+        "linkedin": [],
+        "reddit": []
+      },
+      "media": [
+        {
+          "type": "image",
+          "url": "https://teletechwire.com/wp-content/uploads/logos/Logos/DCO.png"
+        }
+      ],
+      "sentiment": {
+        "title": {
+          "polarity": "neutral",
+          "score": 0.7163
+        },
+        "body": {
+          "polarity": "positive",
+          "score": 0.590496
+        }
+      },
+      "language": "en",
+      "published_at": "2018-10-14T01:04:46Z",
+      "links": {
+        "permalink": "https://whatsonthorold.com/2018/10/14/eps-for-ducommun-incorporated-dco-expected-at-0-50/",
+        "related_stories": "https://api.newsapi.aylien.com/api/v1/related_stories?story_id=183892427",
+        "coverages": "https://api.newsapi.aylien.com/api/v1/coverages?story_id=183892427"
+      }
+    },
+    {
+      "id": 183892432,
+      "title": "Denny's Corporation (DENN) Analysts See $0.19 EPS",
+      "body": "Denny's Corporation (DENN) Analysts See $0.19  14, 2018 - By Richard  sentiment decreased to 0.87 in Q2 2018. Its down 0.09, from 0.96 in 2018Q1. It worsened, as 9 investors sold Denny's Corporation shares while 51 reduced holdings. 20 funds opened positions while 32 raised stakes. 55.59 million shares or 3.60% more from 53.66 million shares in 2018Q1 were reported.\n\n Weiss Asset Management Ltd Partnership reported 10,906 shares. Schwab Charles Invest Inc invested 0% in Denny's Corporation (NASDAQ:DENN). Citigroup reported 0% in Denny's Corporation (NASDAQ:DENN). Teton Advsr owns 59,900 shares. Teacher Retirement System Of Texas holds 13,054 shares. State Board Of Administration Of Florida Retirement Systems holds 0.01% of its portfolio in Denny's Corporation (NASDAQ:DENN) for 166,430 shares. Robeco Institutional Asset Management Bv invested in 0% or 12,715 shares. Bluemountain Management Limited Co owns 36,042 shares. Brinker Capital Inc holds 18,124 shares or 0.01% of its portfolio. Victory Cap holds 0% of its portfolio in Denny's Corporation (NASDAQ:DENN) for 28,249 shares. Susquehanna Llp holds 0% or 57,535 shares. Panagora Asset Management Inc has invested 0.04% in Denny's Corporation (NASDAQ:DENN). Cadence Cap Mngmt Limited Co owns 157,546 shares for 0.15% of their portfolio. Bancshares Of America Corp De has invested 0% in Denny's Corporation (NASDAQ:DENN). Invesco Ltd holds 472,283 shares or 0% of its portfolio.\n\n\nSince June 8, 2018, it had 0 insider buys, and 4 selling transactions for $2.33 million activity. On Friday, June 8 the insider Dillon John William sold $119,250. Shares for $181,873 were sold by Dunn Stephen C. on Friday, June 8.\n\n\n\n\n Analysts expect Denny's Corporation (NASDAQ:DENN) to report $0.19 EPS on November, 7.They anticipate $0.05 EPS change or 35.71 % from last quarter’s $0.14 EPS. DENN’s profit would be $12.04 million giving it 18.72 P/E if the $0.19 EPS is correct. After having $0.18 EPS previously, Denny's Corporation’s analysts see 5.56 % EPS growth. The stock increased 2.15% or $0.3 during the last trading session, reaching $14.23. About 290,457 shares traded or 5.33% up from the average. Denny's Corporation (NASDAQ:DENN) has risen 21.70% since October 14, 2017 and is uptrending. It has outperformed by 6.08% the SP500.\n\n\nDenny's Corporation (NASDAQ:DENN) Ratings Coverage\n\nAmong 3 analysts covering Denny’s (NASDAQ:DENN), 1 have Buy rating, 0 Sell and 2 Hold. Therefore 33% are positive. Denny’s had 3 analyst reports since May 2, 2018 according to SRatingsIntel. On Wednesday, May 2 the stock rating was downgraded by Longbow to “Neutral”. The firm earned “Equal-Weight” rating on Wednesday, September 12 by Stephens. The firm has “Outperform” rating by Wedbush given on Tuesday, July 31.\n\nDenny's Corporation, through its subsidiary, Denny's, Inc., owns and operates full-service restaurant chains under the Denny's brand. The company has market cap of $901.99 million. As of June 28, 2017, it operated 1,724 franchised, licensed, and firm operated restaurants worldwide, including 125 restaurants in Canada, Puerto Rico, Mexico, New Zealand, Honduras, Costa Rica, Dominican Republic, the United Arab Emirates, the Philippines, Guam, Cura??ao ,and El Salvador. It has a 22.17 P/E ratio. The firm was formerly known as Advantica Restaurant Group, Inc. and changed its name to Denny's Corporation in 2002.\n\n\nAnother recent and important Denny's Corporation (NASDAQ:DENN) news was published by Globenewswire.com which published an article titled: “Report: Developing Opportunities within Denny’s, Cytokinetics, Beazer Homes, Heidrick  Struggles International …” on October 09, 2018.\n\n\n\n\n\n\n\n\t \t\t\n\nReceive News  Ratings Via Email - Enter your email address below to receive a concise daily summary of the latest news and analysts' ratings with our FREE daily email   By Richard Conner",
+      "summary": { "sentences": [ "Schwab Charles Invest Inc invested 0% in Denny's Corporation (NASDAQ:DENN).", "State Board Of Administration Of Florida Retirement Systems holds 0.01% of its portfolio in Denny's Corporation (NASDAQ:DENN) for 166,430 shares.", "Victory Cap holds 0% of its portfolio in Denny's Corporation (NASDAQ:DENN) for 28,249 shares.", "Panagora Asset Management Inc has invested 0.04% in Denny's Corporation (NASDAQ:DENN).", "Denny's Corporation (NASDAQ:DENN) Ratings Coverage\n\nAmong 3 analysts covering Denny’s (NASDAQ:DENN), 1 have Buy rating, 0 Sell and 2 Hold." ] },
+      "source": {
+        "id": 8703,
+        "name": "Whats On Thorold",
+        "title": "whatsonthorold.com/",
+        "links_in_count": 25,
+        "home_page_url": "https://www.whatsonthorold.com/",
+        "domain": "whatsonthorold.com",
+        "locations": [ { "country": "US" } ],
+        "scopes": [ { "level": "international" } ],
+        "rankings": {
+          "alexa": [
+            {
+              "rank": 1329771,
+              "fetched_at": "2018-05-22T14:39:49Z"
+            }
+          ]
+        }
+      },
+      "author": {
+        "id": 2345766,
+        "name": "Richard Conner"
+      },
+      "entities": {
+        "title": [
+          {
+            "text": "Denny's Corporation",
+            "types": [ "Organisation" ],
+            "indices": [ [ 0, 18 ] ]
+          },
+          {
+            "text": "EPS",
+            "types": [ "Organisation" ],
+            "indices": [ [ 46, 48 ] ]
+          }
+        ],
+        "body": [
+          {
+            "text": "Cadence",
+            "score": 0.4204936623573303,
+            "types": [ "Organisation", "Software", "product", "Company", "Agent" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Cadence_Design_Systems" },
+            "indices": [ [ 1224, 1230 ] ]
+          },
+          {
+            "text": "ratings",
+            "score": 0.9239276051521301,
+            "types": [ "Place", "Systems" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Nielsen_ratings" },
+            "indices": [ [ 3802, 3808 ] ]
+          },
+          {
+            "text": "market cap",
+            "score": 1.0,
+            "types": [ "Value", "Company" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Market_capitalization" },
+            "indices": [ [ 2915, 2924 ] ]
+          },
+          {
+            "text": "franchised",
+            "score": 0.9790464043617249,
+            "types": [ "Company", "Practice" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Franchising" },
+            "indices": [ [ 2985, 2994 ] ]
+          },
+          {
+            "text": "El Salvador",
+            "score": 0.9882953763008118,
+            "types": [ "PopulatedPlace", "Location", "Place", "Country" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/El_Salvador" },
+            "indices": [ [ 3224, 3234 ] ]
+          },
+          {
+            "text": "Dominican Republic",
+            "score": 0.9997325539588928,
+            "types": [ "PopulatedPlace", "Location", "State", "Place", "Country" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Dominican_Republic" },
+            "indices": [ [ 3141, 3158 ] ]
+          },
+          {
+            "text": "Philippines",
+            "score": 0.9999212622642517,
+            "types": [ "PopulatedPlace", "Location", "Place", "Country", "MusicalArtist" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Philippines" },
+            "indices": [ [ 3191, 3201 ] ]
+          },
+          {
+            "text": "P/E",
+            "score": 1.0,
+            "types": [ "Ratio" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Price–earnings_ratio" },
+            "indices": [
+              [ 1896, 1898 ],
+              [ 3252, 3254 ]
+            ]
+          },
+          {
+            "text": "P/E ratio",
+            "score": 1.0,
+            "types": [ "Ratio" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Price–earnings_ratio" },
+            "indices": [ [ 3252, 3260 ] ]
+          },
+          {
+            "text": "The firm",
+            "score": 0.2937600314617157,
+            "types": [ "Work", "product", "Film", "Wikidata:Q11424" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/The_Firm_(1993_film)" },
+            "indices": [
+              [ 2615, 2622 ],
+              [ 2693, 2700 ],
+              [ 3263, 3270 ]
+            ]
+          },
+          {
+            "text": "Invesco",
+            "score": 1.0,
+            "types": [ "Organisation", "Company", "Agent", "Bank" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Invesco" },
+            "indices": [ [ 1387, 1393 ] ]
+          },
+          {
+            "text": "Canada",
+            "score": 0.9995922446250916,
+            "types": [ "PopulatedPlace", "Location", "Place", "Country", "MusicalArtist" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Canada" },
+            "indices": [ [ 3077, 3082 ] ]
+          },
+          {
+            "text": "United Arab Emirates",
+            "score": 0.9964762926101685,
+            "types": [ "PopulatedPlace", "Location", "Place", "Country", "MusicalArtist" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/United_Arab_Emirates" },
+            "indices": [ [ 3165, 3184 ] ]
+          },
+          {
+            "text": "Honduras",
+            "score": 0.9801990389823914,
+            "types": [ "PopulatedPlace", "Person", "Location", "Place", "Country", "Republic" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Honduras" },
+            "indices": [ [ 3119, 3126 ] ]
+          },
+          {
+            "text": "Mexico",
+            "score": 0.9981204271316528,
+            "types": [ "PopulatedPlace", "Person", "Location", "Place", "Country", "Republic" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Mexico" },
+            "indices": [ [ 3098, 3103 ] ]
+          },
+          {
+            "text": "Puerto Rico",
+            "score": 0.9996039271354675,
+            "types": [ "PopulatedPlace", "Location", "United", "Place", "Country" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Puerto_Rico" },
+            "indices": [ [ 3085, 3095 ] ]
+          },
+          {
+            "text": "New Zealand",
+            "score": 0.9944112300872803,
+            "types": [ "PopulatedPlace", "Location", "Place", "Country", "MusicalArtist" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/New_Zealand" },
+            "indices": [ [ 3106, 3116 ] ]
+          },
+          {
+            "text": "Guam",
+            "score": 0.9990361928939819,
+            "types": [ "PopulatedPlace", "Location", "Territory", "Place", "Country" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Guam" },
+            "indices": [ [ 3204, 3207 ] ]
+          },
+          {
+            "text": "Citigroup",
+            "score": 1.0,
+            "types": [ "Organisation", "Company", "Agent", "Bank" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Citigroup" },
+            "indices": [ [ 510, 518 ] ]
+          },
+          {
+            "text": "NASDAQ",
+            "score": 1.0,
+            "types": [ "PersonFunction", "Company", "Exchange", "Organisation" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/NASDAQ" },
+            "indices": [
+              [ 496, 501 ],
+              [ 556, 561 ],
+              [ 771, 776 ],
+              [ 1062, 1067 ],
+              [ 1210, 1215 ],
+              [ 1373, 1378 ],
+              [ 1719, 1724 ],
+              [ 2181, 2186 ],
+              [ 2316, 2321 ],
+              [ 2382, 2387 ],
+              [ 3432, 3437 ]
+            ]
+          },
+          {
+            "text": "Susquehanna",
+            "score": 0.8237290978431702,
+            "types": [ "NaturalPlace", "River", "Location", "BodyOfWater", "Place", "Stream" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Susquehanna_River" },
+            "indices": [ [ 1094, 1104 ] ]
+          },
+          {
+            "text": "Costa Rica",
+            "score": 0.9875891208648682,
+            "types": [ "PopulatedPlace", "Location", "Place", "Country", "MusicalArtist" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Costa_Rica" },
+            "indices": [ [ 3129, 3138 ] ]
+          },
+          {
+            "text": "Texas",
+            "types": [ "Place" ],
+            "indices": [ [ 631, 635 ] ]
+          },
+          {
+            "text": "Inc",
+            "types": [ "Place" ],
+            "indices": [
+              [ 456, 458 ],
+              [ 949, 951 ],
+              [ 1163, 1165 ],
+              [ 2819, 2821 ],
+              [ 3322, 3324 ]
+            ]
+          },
+          {
+            "text": "Richard",
+            "types": [ "Person" ],
+            "indices": [
+              [ 61, 67 ],
+              [ 3841, 3847 ]
+            ]
+          },
+          {
+            "text": "Schwab Charles Invest Inc",
+            "types": [ "Person" ],
+            "indices": [ [ 434, 458 ] ]
+          },
+          {
+            "text": "Teton Advsr",
+            "types": [ "Person" ],
+            "indices": [ [ 570, 580 ] ]
+          },
+          {
+            "text": "Victory Cap",
+            "types": [ "Person" ],
+            "indices": [ [ 1000, 1010 ] ]
+          },
+          {
+            "text": "Susquehanna Llp",
+            "types": [ "Person" ],
+            "indices": [ [ 1094, 1108 ] ]
+          },
+          {
+            "text": "Dillon John William",
+            "types": [ "Person" ],
+            "indices": [ [ 1574, 1592 ] ]
+          },
+          {
+            "text": "Dunn Stephen C",
+            "types": [ "Person" ],
+            "indices": [ [ 1642, 1655 ] ]
+          },
+          {
+            "text": "Ratings Coverage",
+            "types": [ "Person" ],
+            "indices": [ [ 2329, 2344 ] ]
+          },
+          {
+            "text": "Buy",
+            "types": [ "Person" ],
+            "indices": [ [ 2403, 2405 ] ]
+          },
+          {
+            "text": "Longbow",
+            "types": [ "Person" ],
+            "indices": [ [ 2593, 2599 ] ]
+          },
+          {
+            "text": "Stephens",
+            "types": [ "Person" ],
+            "indices": [ [ 2683, 2690 ] ]
+          },
+          {
+            "text": "Wedbush",
+            "types": [ "Person" ],
+            "indices": [ [ 2729, 2735 ] ]
+          },
+          {
+            "text": "Richard Conner",
+            "types": [ "Person" ],
+            "indices": [ [ 3841, 3854 ] ]
+          },
+          {
+            "text": "Denny's Corporation",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 0, 18 ],
+              [ 179, 197 ],
+              [ 475, 493 ],
+              [ 535, 553 ],
+              [ 750, 768 ],
+              [ 1041, 1059 ],
+              [ 1189, 1207 ],
+              [ 1352, 1370 ],
+              [ 1698, 1716 ],
+              [ 1964, 1982 ],
+              [ 2160, 2178 ],
+              [ 2295, 2313 ],
+              [ 2765, 2783 ],
+              [ 3351, 3369 ],
+              [ 3411, 3429 ]
+            ]
+          },
+          {
+            "text": "Weiss Asset Management Ltd Partnership",
+            "types": [ "Organisation" ],
+            "indices": [ [ 371, 408 ] ]
+          },
+          {
+            "text": "State Board Of Administration Of Florida Retirement Systems",
+            "types": [ "Organisation" ],
+            "indices": [ [ 658, 716 ] ]
+          },
+          {
+            "text": "Robeco Institutional Asset Management Bv",
+            "types": [ "Organisation" ],
+            "indices": [ [ 804, 843 ] ]
+          },
+          {
+            "text": "Bluemountain Management Limited Co",
+            "types": [ "Organisation" ],
+            "indices": [ [ 878, 911 ] ]
+          },
+          {
+            "text": "Brinker Capital Inc",
+            "types": [ "Organisation" ],
+            "indices": [ [ 933, 951 ] ]
+          },
+          {
+            "text": "Panagora Asset Management Inc",
+            "types": [ "Organisation" ],
+            "indices": [ [ 1137, 1165 ] ]
+          },
+          {
+            "text": "Cadence Cap Mngmt Limited Co",
+            "types": [ "Organisation" ],
+            "indices": [ [ 1224, 1251 ] ]
+          },
+          {
+            "text": "Bancshares Of America Corp De",
+            "types": [ "Organisation" ],
+            "indices": [ [ 1303, 1331 ] ]
+          },
+          {
+            "text": "Invesco Ltd",
+            "types": [ "Organisation" ],
+            "indices": [ [ 1387, 1397 ] ]
+          },
+          {
+            "text": "EPS",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 1748, 1750 ],
+              [ 1789, 1791 ],
+              [ 1837, 1839 ],
+              [ 1913, 1915 ],
+              [ 1948, 1950 ],
+              [ 2006, 2008 ]
+            ]
+          },
+          {
+            "text": "Denny",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 0, 4 ],
+              [ 179, 183 ],
+              [ 475, 479 ],
+              [ 535, 539 ],
+              [ 750, 754 ],
+              [ 1041, 1045 ],
+              [ 1189, 1193 ],
+              [ 1352, 1356 ],
+              [ 1698, 1702 ],
+              [ 1964, 1968 ],
+              [ 2160, 2164 ],
+              [ 2295, 2299 ],
+              [ 2373, 2377 ],
+              [ 2462, 2466 ],
+              [ 2765, 2769 ],
+              [ 2810, 2814 ],
+              [ 2884, 2888 ],
+              [ 3351, 3355 ],
+              [ 3411, 3415 ],
+              [ 3561, 3565 ]
+            ]
+          },
+          {
+            "text": "Outperform",
+            "types": [ "Organisation" ],
+            "indices": [ [ 2707, 2716 ] ]
+          },
+          {
+            "text": "Advantica Restaurant Group, Inc",
+            "types": [ "Organisation" ],
+            "indices": [ [ 3294, 3324 ] ]
+          },
+          {
+            "text": "Another",
+            "types": [ "Organisation" ],
+            "indices": [ [ 3382, 3388 ] ]
+          },
+          {
+            "text": "Globenewswire.com",
+            "types": [ "Organisation" ],
+            "indices": [ [ 3467, 3483 ] ]
+          },
+          {
+            "text": "Receive News",
+            "types": [ "Organisation" ],
+            "indices": [ [ 3669, 3680 ] ]
+          },
+          {
+            "text": "FREE",
+            "types": [ "Organisation" ],
+            "indices": [ [ 3819, 3822 ] ]
+          }
+        ]
+      },
+      "keywords": [ "Analysts", "Denny", "DENN", "Corporation", "shares", "News Ratings", "Ratings", "firm", "NASDAQ", "June", "news", "portfolio", "restaurant", "Retirement", "Rica", "Dominican", "Republic", "Costa", "United", "Cadence", "ratings", "market cap", "franchised", "El Salvador", "Dominican Republic", "Philippines", "P/E", "P/E ratio", "The firm", "Invesco", "Canada", "United Arab Emirates", "Honduras", "Mexico", "Puerto Rico", "New Zealand", "Guam", "Citigroup", "Susquehanna", "Costa Rica" ],
+      "hashtags": [ "#NASDAQ", "#NASDAQ", "#TheFirm", "#Price–earningsRatio", "#Citigroup", "#SusquehannaRiver", "#CadenceDesignSystems", "#Invesco", "#MarketCapitalization", "#Franchising", "#Canada", "#PuertoRico", "#Mexico", "#NewZealand", "#Honduras", "#CostaRica", "#DominicanRepublic", "#UnitedArabEmirates", "#Philippines", "#Guam", "#ElSalvador", "#NielsenRatings" ],
+      "characters_count": 3855,
+      "words_count": 659,
+      "sentences_count": 45,
+      "paragraphs_count": 10,
+      "categories": [
+        {
+          "id": "IAB13",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.34,
+          "confident": true,
+          "links": { "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13" }
+        },
+        {
+          "id": "IAB13-11",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.18,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13-11",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB13"
+          }
+        },
+        {
+          "id": "04016029",
+          "taxonomy": "iptc-subjectcode",
+          "level": 3,
+          "score": 0.02,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/04016029",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/04016000"
+          }
+        }
+      ],
+      "social_shares_count": {
+        "facebook": [],
+        "google_plus": [],
+        "linkedin": [],
+        "reddit": []
+      },
+      "media": [
+        {
+          "type": "image",
+          "url": "https://teletechwire.com/wp-content/uploads/logos/Logos/DENN.png"
+        }
+      ],
+      "sentiment": {
+        "title": {
+          "polarity": "neutral",
+          "score": 0.6629
+        },
+        "body": {
+          "polarity": "negative",
+          "score": 0.389093
+        }
+      },
+      "language": "en",
+      "published_at": "2018-10-14T01:04:46Z",
+      "links": {
+        "permalink": "https://whatsonthorold.com/2018/10/14/dennys-corporation-denn-analysts-see-0-19-eps/",
+        "related_stories": "https://api.newsapi.aylien.com/api/v1/related_stories?story_id=183892432",
+        "coverages": "https://api.newsapi.aylien.com/api/v1/coverages?story_id=183892432"
+      }
+    },
+    {
+      "id": 183892434,
+      "title": "$-0.01 EPS Expected for Drive Shack Inc. (DS)",
+      "body": "$-0.01 EPS Expected for Drive Shack Inc.  14, 2018 - By  Analysts expect Drive Shack Inc. (NYSE:DS) to report $-0.01 EPS on November, 7.They anticipate $0.14 EPS change or 107.69 % from last quarter’s $0.13 EPS. After having $-0.09 EPS previously, Drive Shack Inc.’s analysts see -88.89 % EPS growth. The stock increased 0.60% or $0.03 during the last trading session, reaching $5.05. About 283,753 shares traded or 0.22% up from the average. Drive Shack Inc. (NYSE:DS) has risen 123.47% since October 14, 2017 and is uptrending. It has outperformed by 107.85% the SP500.\n\n\n\n\n\n\nNewcastle Investment Corp. operates as a real estate investment trust in the United States. The company has market cap of $338.23 million. The firm invests in and manages real estate related and other investments, including senior housing properties; debt investments financed with collateralized debt obligations; other debt investments; and investments in golf courses and facilities. It currently has negative earnings. It also invests in securities, including commercial mortgage backed securities, senior unsecured debt issued by property REITs, and real estate related asset backed securities, as well as in loans, such as real estate related and other loans, including corporate bank loans, commercial mortgage loans, residential mortgage loans, manufactured housing loans, and subprime mortgage loans.\n\n\n\n\n\n\t \t\t\n\nReceive News  Ratings Via Email - Enter your email address below to receive a concise daily summary of the latest news and analysts' ratings with our FREE daily email   By whatsonthorold",
+      "summary": { "sentences": [ "14, 2018 - By  Analysts expect Drive Shack Inc. (NYSE:DS) to report $-0.01 EPS on November, 7.", "After having $-0.09 EPS previously, Drive Shack Inc.’s analysts see -88.89 % EPS growth.", "Newcastle Investment Corp. operates as a real estate investment trust in the United States.", "The firm invests in and manages real estate related and other investments, including senior housing properties; debt investments financed with collateralized debt obligations; other debt investments; and investments in golf courses and facilities.", "It also invests in securities, including commercial mortgage backed securities, senior unsecured debt issued by property REITs, and real estate related asset backed securities, as well as in loans, such as real estate related and other loans, including corporate bank loans, commercial mortgage loans, residential mortgage loans, manufactured housing loans, and subprime mortgage loans." ] },
+      "source": {
+        "id": 8703,
+        "name": "Whats On Thorold",
+        "title": "whatsonthorold.com/",
+        "links_in_count": 25,
+        "home_page_url": "https://www.whatsonthorold.com/",
+        "domain": "whatsonthorold.com",
+        "locations": [ { "country": "US" } ],
+        "scopes": [ { "level": "international" } ],
+        "rankings": {
+          "alexa": [
+            {
+              "rank": 1329771,
+              "fetched_at": "2018-05-22T14:39:49Z"
+            }
+          ]
+        }
+      },
+      "author": {
+        "id": 2345888,
+        "name": "Whatsonthorold"
+      },
+      "entities": {
+        "title": [
+          {
+            "text": "DS",
+            "types": [ "Place" ],
+            "indices": [ [ 42, 43 ] ]
+          },
+          {
+            "text": "Drive Shack Inc",
+            "types": [ "Organisation" ],
+            "indices": [ [ 24, 38 ] ]
+          }
+        ],
+        "body": [
+          {
+            "text": "ratings",
+            "score": 0.9302079081535339,
+            "types": [ "Place", "Systems" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Nielsen_ratings" },
+            "indices": [ [ 1532, 1538 ] ]
+          },
+          {
+            "text": "market cap",
+            "score": 1.0,
+            "types": [ "Value", "Company" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Market_capitalization" },
+            "indices": [ [ 686, 695 ] ]
+          },
+          {
+            "text": "securities",
+            "score": 0.9974578022956848,
+            "types": [ "Asset", "Agent" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Security_(finance)" },
+            "indices": [
+              [ 1020, 1029 ],
+              [ 1069, 1078 ],
+              [ 1166, 1175 ]
+            ]
+          },
+          {
+            "text": "golf",
+            "score": 0.9999479055404663,
+            "types": [ "Sport", "Club", "Activity", "SoccerClub" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Golf" },
+            "indices": [ [ 936, 939 ] ]
+          },
+          {
+            "text": "Newcastle",
+            "score": 0.5749632716178894,
+            "types": [ "Place", "Settlement", "PopulatedPlace", "Location", "City" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Newcastle_upon_Tyne" },
+            "indices": [ [ 578, 586 ] ]
+          },
+          {
+            "text": "collateralized debt obligations",
+            "score": 1.0,
+            "types": [ "Security", "Organisation" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Collateralized_debt_obligation" },
+            "indices": [ [ 860, 890 ] ]
+          },
+          {
+            "text": "asset",
+            "score": 0.996758222579956,
+            "types": [ "Resource", "Work", "product" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Asset" },
+            "indices": [ [ 1153, 1157 ] ]
+          },
+          {
+            "text": "United States",
+            "score": 0.9998566508293152,
+            "types": [ "Place", "PopulatedPlace", "Location", "Republic", "Country", "Person" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/United_States" },
+            "indices": [ [ 655, 667 ] ]
+          },
+          {
+            "text": "The firm",
+            "score": 0.3639287054538727,
+            "types": [ "Film", "product", "Work", "Wikidata:Q11424" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/The_Firm_(1993_film)" },
+            "indices": [ [ 717, 724 ] ]
+          },
+          {
+            "text": "bank",
+            "score": 0.9991717338562012,
+            "types": [ "PersonFunction", "Institution", "University" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Bank" },
+            "indices": [ [ 1264, 1267 ] ]
+          },
+          {
+            "text": "NYSE",
+            "score": 0.9989864230155945,
+            "types": [ "Place", "Company", "Location", "Building", "Exchange", "ArchitecturalStructure", "Organisation" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/New_York_Stock_Exchange" },
+            "indices": [
+              [ 91, 94 ],
+              [ 461, 464 ]
+            ]
+          },
+          {
+            "text": "real estate",
+            "score": 0.9988720417022705,
+            "types": [ "PersonFunction" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Real_estate" },
+            "indices": [
+              [ 619, 629 ],
+              [ 749, 759 ],
+              [ 1133, 1143 ],
+              [ 1207, 1217 ]
+            ]
+          },
+          {
+            "text": "senior housing",
+            "score": 1.0,
+            "types": [ "ArchitecturalStructure", "Facility" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Retirement_home" },
+            "indices": [ [ 802, 815 ] ]
+          },
+          {
+            "text": "real estate investment trust",
+            "score": 1.0,
+            "types": [ "MusicGenre", "Company" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Real_estate_investment_trust" },
+            "indices": [ [ 619, 646 ] ]
+          },
+          {
+            "text": "manufactured housing",
+            "score": 1.0,
+            "types": [ "Housing", "Building" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Manufactured_housing" },
+            "indices": [ [ 1331, 1350 ] ]
+          },
+          {
+            "text": "DS",
+            "types": [ "Place" ],
+            "indices": [
+              [ 96, 97 ],
+              [ 466, 467 ]
+            ]
+          },
+          {
+            "text": "Drive Shack Inc",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 24, 38 ],
+              [ 73, 87 ],
+              [ 248, 262 ],
+              [ 443, 457 ]
+            ]
+          },
+          {
+            "text": "EPS",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 7, 9 ],
+              [ 117, 119 ],
+              [ 158, 160 ],
+              [ 207, 209 ],
+              [ 232, 234 ],
+              [ 289, 291 ]
+            ]
+          },
+          {
+            "text": "Newcastle Investment Corp",
+            "types": [ "Organisation" ],
+            "indices": [ [ 578, 602 ] ]
+          },
+          {
+            "text": "Receive News",
+            "types": [ "Organisation" ],
+            "indices": [ [ 1399, 1410 ] ]
+          },
+          {
+            "text": "Ratings Via Email - Enter",
+            "types": [ "Organisation" ],
+            "indices": [ [ 1413, 1437 ] ]
+          },
+          {
+            "text": "FREE",
+            "types": [ "Organisation" ],
+            "indices": [ [ 1549, 1552 ] ]
+          }
+        ]
+      },
+      "keywords": [ "Shack", "Drive", "Expected", "real estate", "Drive Shack", "Investment", "Analysts", "real", "estate", "News", "loans", "Ratings", "securities", "daily", "NYSE", "mortgage", "email", "debt", "stock", "ratings", "market cap", "golf", "Newcastle", "collateralized debt obligations", "asset", "United States", "The firm", "unsecured debt", "bank", "subprime mortgage", "senior housing", "manufactured housing" ],
+      "hashtags": [ "#RealEstate", "#Security", "#NYSE", "#NewYorkStockExchange", "#NewcastleUponTyne", "#RealEstateInvestmentTrust", "#UnitedStates", "#MarketCapitalization", "#TheFirm", "#RetirementHome", "#CollateralizedDebtObligation", "#Golf", "#UnsecuredDebt", "#Asset", "#Bank", "#MortgageLoan", "#ManufacturedHousing", "#SubprimeLending", "#NielsenRatings" ],
+      "characters_count": 1585,
+      "words_count": 256,
+      "sentences_count": 14,
+      "paragraphs_count": 4,
+      "categories": [
+        {
+          "id": "IAB21-2",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.39,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB21-2",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB21"
+          }
+        },
+        {
+          "id": "IAB21",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.35,
+          "confident": true,
+          "links": { "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB21" }
+        },
+        {
+          "id": "04006000",
+          "taxonomy": "iptc-subjectcode",
+          "level": 2,
+          "score": 0.37,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/04006000",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/04000000"
+          }
+        }
+      ],
+      "social_shares_count": {
+        "facebook": [],
+        "google_plus": [],
+        "linkedin": [],
+        "reddit": []
+      },
+      "media": [
+        {
+          "type": "image",
+          "url": "https://whatsonthorold.com/wp-content/uploads/2018/05/3.png"
+        }
+      ],
+      "sentiment": {
+        "title": {
+          "polarity": "neutral",
+          "score": 0.732287
+        },
+        "body": {
+          "polarity": "neutral",
+          "score": 0.648381
+        }
+      },
+      "language": "en",
+      "published_at": "2018-10-14T01:04:46Z",
+      "links": {
+        "permalink": "https://whatsonthorold.com/2018/10/14/0-01-eps-expected-for-drive-shack-inc-ds/",
+        "related_stories": "https://api.newsapi.aylien.com/api/v1/related_stories?story_id=183892434",
+        "coverages": "https://api.newsapi.aylien.com/api/v1/coverages?story_id=183892434"
+      }
+    },
+    {
+      "id": 183892412,
+      "title": "K-Pop Corner: HyunA, E’Dawn bring the romance out in the open",
+      "body": "Korean singers HyunA and E’Dawn are no longer hiding their romance. Last week, K-Pop soloist HyunA posted photos of a recent date with boyfriend and Pentagon’s E’Dawn on her Instagram after publicly revealing their secret relationship back in August.\n\nThe photos show the pair holding hands and walking freely on the streets of Japan where they visited a crepe cafe in Harajuku.\n\nMost of HyunA’s posts receive an average 100,000 to 500,000 likes but just four hours after sharing the photos as a couple, it earned a million likes for the first time.\n\nTwo months ago, South Korean media reported that the pair were ousted by their management agency after publicly revealing their secret romantic relationship of two years despite the agency’s initial denial.\n\nThe company’s decision was heavily criticised by fans. The same day as they got sacked by Cube Entertainment, the company received 720,000 tweets in 10 hours by fans and their stocks instantly dropped. Hours later, CEO Shin Dae-Nam released a statement that nothing has been officially decided yet.\n\nSince then, the couple have been away from the limelight, but it seems that their relationship is stronger than ever.\n\nWhile many expressed their love and support to the couple on HyunA’s Instagram post, Pentagon fans were enraged as the group celebrated their two-year anniversary the same day the K-Pop diva uploaded the photos.\n\nThere are reports that HyunA and E’Dawn will be parting ways with Cube Entertainment although no official statement has been provided on the K-pop stars’ contracts.",
+      "summary": { "sentences": [ "Last week, K-Pop soloist HyunA posted photos of a recent date with boyfriend and Pentagon’s E’Dawn on her Instagram after publicly revealing their secret relationship back in August.", "Most of HyunA’s posts receive an average 100,000 to 500,000 likes but just four hours after sharing the photos as a couple, it earned a million likes for the first time.", "The same day as they got sacked by Cube Entertainment, the company received 720,000 tweets in 10 hours by fans and their stocks instantly dropped.", "While many expressed their love and support to the couple on HyunA’s Instagram post, Pentagon fans were enraged as the group celebrated their two-year anniversary the same day the K-Pop diva uploaded the photos.", "There are reports that HyunA and E’Dawn will be parting ways with Cube Entertainment although no official statement has been provided on the K-pop stars’ contracts." ] },
+      "source": {
+        "id": 517,
+        "name": "Gulf News",
+        "title": "Gulf News",
+        "description": "Online version of the daily newspaper. Includes headlines, polls, articles, analysis, commentaries and weather updates.",
+        "links_in_count": 11318,
+        "home_page_url": "http://gulfnews.com/",
+        "domain": "gulfnews.com",
+        "locations": [
+          {
+            "country": "AE",
+            "state": "Dubai",
+            "city": "Dubai"
+          }
+        ],
+        "scopes": [
+          {
+            "country": "AE",
+            "state": "Dubai",
+            "city": "Dubai",
+            "level": "national"
+          }
+        ],
+        "rankings": {
+          "alexa": [
+            {
+              "rank": 5892,
+              "fetched_at": "2016-08-22T16:49:04Z"
+            },
+            {
+              "rank": 3627,
+              "country": "IN",
+              "fetched_at": "2016-08-22T16:49:04Z"
+            },
+            {
+              "rank": 1428,
+              "country": "KW",
+              "fetched_at": "2016-08-22T16:49:04Z"
+            },
+            {
+              "rank": 6571,
+              "country": "EG",
+              "fetched_at": "2016-08-22T16:49:04Z"
+            },
+            {
+              "rank": 5217,
+              "country": "BD",
+              "fetched_at": "2016-08-22T16:49:04Z"
+            },
+            {
+              "rank": 1550,
+              "country": "PK",
+              "fetched_at": "2016-08-22T16:49:04Z"
+            },
+            {
+              "rank": 21962,
+              "country": "US",
+              "fetched_at": "2016-08-22T16:49:04Z"
+            },
+            {
+              "rank": 387,
+              "country": "BH",
+              "fetched_at": "2016-08-22T16:49:04Z"
+            },
+            {
+              "rank": 6119,
+              "country": "AU",
+              "fetched_at": "2016-08-22T16:49:04Z"
+            },
+            {
+              "rank": 3260,
+              "country": "SA",
+              "fetched_at": "2016-08-22T16:49:04Z"
+            },
+            {
+              "rank": 21,
+              "country": "AE",
+              "fetched_at": "2016-08-22T16:49:04Z"
+            },
+            {
+              "rank": 3018,
+              "country": "KZ",
+              "fetched_at": "2016-08-22T16:49:04Z"
+            },
+            {
+              "rank": 9092,
+              "country": "GB",
+              "fetched_at": "2016-08-22T16:49:04Z"
+            },
+            {
+              "rank": 20949,
+              "country": "FR",
+              "fetched_at": "2016-08-22T16:49:04Z"
+            },
+            {
+              "rank": 118,
+              "country": "OM",
+              "fetched_at": "2016-08-22T16:49:04Z"
+            },
+            {
+              "rank": 477,
+              "country": "QA",
+              "fetched_at": "2016-08-22T16:49:04Z"
+            },
+            {
+              "rank": 12184,
+              "country": "CA",
+              "fetched_at": "2016-08-22T16:49:04Z"
+            },
+            {
+              "rank": 25596,
+              "country": "DE",
+              "fetched_at": "2016-08-22T16:49:04Z"
+            }
+          ]
+        }
+      },
+      "author": {
+        "id": 2242164,
+        "name": "Samar Khouri,"
+      },
+      "entities": {
+        "title": [
+          {
+            "text": "HyunA",
+            "score": 1.0,
+            "types": [ "Agent", "Person", "Dancer" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Hyuna" },
+            "indices": [ [ 14, 18 ] ]
+          },
+          {
+            "text": "K-Pop",
+            "score": 1.0,
+            "types": [ "MusicGenre", "TopicalConcept", "Genre" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/K-pop" },
+            "indices": [ [ 0, 4 ] ]
+          }
+        ],
+        "body": [
+          {
+            "text": "Cube Entertainment",
+            "score": 1.0,
+            "types": [ "Organisation", "RecordLabel", "Company", "Label", "Agent" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Cube_Entertainment" },
+            "indices": [
+              [ 849, 866 ],
+              [ 1457, 1474 ]
+            ]
+          },
+          {
+            "text": "K-Pop",
+            "score": 1.0,
+            "types": [ "MusicGenre", "TopicalConcept", "Genre", "Person" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/K-pop" },
+            "indices": [
+              [ 79, 83 ],
+              [ 1358, 1362 ]
+            ]
+          },
+          {
+            "text": "K-pop",
+            "score": 1.0,
+            "types": [ "MusicGenre", "TopicalConcept", "Genre" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/K-pop" },
+            "indices": [ [ 1532, 1536 ] ]
+          },
+          {
+            "text": "CEO",
+            "score": 0.9999285936355591,
+            "types": [ "PersonFunction" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Chief_executive_officer" },
+            "indices": [ [ 974, 976 ] ]
+          },
+          {
+            "text": "Pentagon",
+            "score": 0.8652861714363098,
+            "types": [ "Place", "ArchitecturalStructure", "Building", "Headquarters", "Location", "Organisation" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/The_Pentagon" },
+            "indices": [
+              [ 149, 156 ],
+              [ 1263, 1270 ]
+            ]
+          },
+          {
+            "text": "Instagram",
+            "score": 1.0,
+            "types": [ "Work", "product", "Organisation", "Service", "Software", "Place" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Instagram" },
+            "indices": [
+              [ 174, 182 ],
+              [ 1247, 1255 ]
+            ]
+          },
+          {
+            "text": "crepe",
+            "score": 0.9565035104751587,
+            "types": [ "Type", "Food", "product" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Crêpe" },
+            "indices": [ [ 355, 359 ] ]
+          },
+          {
+            "text": "Japan",
+            "score": 0.99782395362854,
+            "types": [ "Place", "PopulatedPlace", "MusicalArtist", "Country", "Location" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Japan" },
+            "indices": [ [ 328, 332 ] ]
+          },
+          {
+            "text": "romance",
+            "score": 0.5436672568321228,
+            "types": [ "MusicGenre", "Stories", "WrittenWork", "product" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Romance_film" },
+            "indices": [ [ 59, 65 ] ]
+          },
+          {
+            "text": "Harajuku",
+            "score": 0.99857497215271,
+            "types": [ "MusicGenre", "Settlement", "District", "Place" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Harajuku" },
+            "indices": [ [ 369, 376 ] ]
+          },
+          {
+            "text": "HyunA",
+            "score": 1.0,
+            "types": [ "Dancer", "Person", "Agent" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Hyuna" },
+            "indices": [
+              [ 15, 19 ],
+              [ 93, 97 ],
+              [ 388, 392 ],
+              [ 1239, 1243 ],
+              [ 1414, 1418 ]
+            ]
+          },
+          {
+            "text": "E’Dawn",
+            "types": [ "Person" ],
+            "indices": [
+              [ 25, 30 ],
+              [ 160, 165 ],
+              [ 1424, 1429 ]
+            ]
+          },
+          {
+            "text": "Shin Dae-Nam",
+            "types": [ "Person" ],
+            "indices": [ [ 978, 989 ] ]
+          },
+          {
+            "text": "K",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 79, 79 ],
+              [ 1358, 1358 ],
+              [ 1532, 1532 ]
+            ]
+          },
+          {
+            "text": "stars",
+            "types": [ "Organisation" ],
+            "indices": [ [ 1538, 1542 ] ]
+          }
+        ]
+      },
+      "keywords": [ "HyunA", "E’Dawn", "Corner", "romance", "open", "K-Pop", "photos", "relationship", "couple", "fans", "pair", "statement", "hours", "Entertainment", "secret", "agency", "Cube Entertainment", "K-pop", "CEO", "Pentagon", "Instagram", "crepe", "Japan", "Harajuku" ],
+      "hashtags": [ "#Hyuna", "#Kpop", "#RomanceFilm", "#ThePentagon", "#Instagram", "#CubeEntertainment", "#Japan", "#Crêpe", "#Harajuku", "#CEO", "#ChiefExecutiveOfficer" ],
+      "characters_count": 1555,
+      "words_count": 268,
+      "sentences_count": 11,
+      "paragraphs_count": 8,
+      "categories": [
+        {
+          "id": "IAB1-6",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.22,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB1-6",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB1"
+          }
+        },
+        {
+          "id": "IAB1",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.08,
+          "confident": true,
+          "links": { "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB1" }
+        },
+        {
+          "id": "IAB9-23",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.07,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB9-23",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB9"
+          }
+        },
+        {
+          "id": "IAB9",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.07,
+          "confident": false,
+          "links": { "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB9" }
+        },
+        {
+          "id": "04010000",
+          "taxonomy": "iptc-subjectcode",
+          "level": 2,
+          "score": 0.09,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/04010000",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/04000000"
+          }
+        }
+      ],
+      "social_shares_count": {
+        "facebook": [],
+        "google_plus": [],
+        "linkedin": [],
+        "reddit": []
+      },
+      "media": [
+        {
+          "type": "image",
+          "url": "https://static.gulfnews.com/polopoly_fs/1.2289445!/image/2306930042.jpg_gen/derivatives/box_460346/2306930042.jpg",
+          "format": "JPEG",
+          "content_length": 25117,
+          "width": 460,
+          "height": 346
+        }
+      ],
+      "sentiment": {
+        "title": {
+          "polarity": "neutral",
+          "score": 0.518834
+        },
+        "body": {
+          "polarity": "neutral",
+          "score": 0.855551
+        }
+      },
+      "language": "en",
+      "published_at": "2018-10-14T01:04:45Z",
+      "links": {
+        "permalink": "https://gulfnews.com/k-pop-corner-hyuna-e-dawn-bring-the-romance-out-in-the-open-1.2289446?localLinksEnabled=false&utm_source=Feeds&utm_medium=RSS&utm_term=Most+viewed+RSS+&utm_content=1.2289446&utm_campaign=K-Pop+Corner%3A+HyunA%2C+E%E2%80%99Dawn+bring+the+romance+out+in+the+open",
+        "related_stories": "https://api.newsapi.aylien.com/api/v1/related_stories?story_id=183892412",
+        "coverages": "https://api.newsapi.aylien.com/api/v1/coverages?story_id=183892412"
+      }
+    },
+    {
+      "id": 183892397,
+      "title": "Mikaela Mayer Drops, Decisions Vanessa Bradford",
+      "body": "OMAHA - Following Muwendo’s win, women’s junior lightweight prospect Mikaela Mayer remained unbeaten by out-boxing Vanessa Bradford in a one-sided eight-rounder.\n\nLos Angeles’ Mayer (8-0, 4 KOs), a 2016 Olympian, floored Bradford in the seventh round and defeated her shorter, slower opponent by the identical score of 80-71 on all three cards. The 34-year-old Bradford, of Edmonton, Alberta, Canada, lost for the first time as a pro (4-1-2).\n\nAn aggressive Mayer kept Bradford fighting off her back foot throughout the first four rounds. Mayer clearly won each of those four rounds, but didn’t appear to hurt her opponent until the fifth round.\n\nMayer landed an overhand right early in the fifth that made Bradford move away from her. A right uppercut by Mayer also knocked Bradford off balance later in the fifth.\n\nMayer finally floored Bradford with an overhand right early in the seventh round. Bradford reached her feet and kept out of Mayer’s punching range well enough to make it to the end of that round.\n\nMayer pressed for the knockout throughout the eighth round. She couldn’t hurt Bradford again, though, and settled for an easy victory on the cards.\n\nIn the third bout Saturday night, Ugandan junior lightweight Ismail Muwendo defeated Andre Wilson by unanimous decision in a six-rounder. Muwendo won by the same score, 59-55, on each of the three cards.\n\nMuwendo, 30, upped his record to 20-1 and won his first fight since losing an eight-round unanimous decision to John Moralde on May 26. Wilson (15-12-1, 11 KOs), of St. Joseph, Missouri, is 2-7 in his past nine fights.\n\nWilson was losing badly before he drilled Muwendo with a straight left hand in the third round that made Muwendo stumble backward. Muwendo recovered and made the remainder of that round competitive.\n\nMuwendo hurt Wilson with a straight right hand early in the second round and when he landed a hard left to the body late in the second.\n\nAfter Wilson hurt him in the third round, Muwendo regained control of their fight and won the remaining rounds convincingly.",
+      "summary": { "sentences": [ "Los Angeles’ Mayer (8-0, 4 KOs), a 2016 Olympian, floored Bradford in the seventh round and defeated her shorter, slower opponent by the identical score of 80-71 on all three cards.", "Mayer finally floored Bradford with an overhand right early in the seventh round.", "Wilson was losing badly before he drilled Muwendo with a straight left hand in the third round that made Muwendo stumble backward.", "Muwendo hurt Wilson with a straight right hand early in the second round and when he landed a hard left to the body late in the second.", "After Wilson hurt him in the third round, Muwendo regained control of their fight and won the remaining rounds convincingly." ] },
+      "source": {
+        "id": 3274,
+        "name": "Boxing Scene",
+        "title": "BoxingScene.com",
+        "description": "Breaking news, insider information, results and forum.",
+        "links_in_count": 1349,
+        "home_page_url": "http://www.boxingscene.com/",
+        "domain": "boxingscene.com",
+        "locations": [],
+        "scopes": [],
+        "rankings": {
+          "alexa": [
+            {
+              "rank": 20836,
+              "fetched_at": "2017-10-15T14:33:10Z"
+            },
+            {
+              "rank": 61025,
+              "country": "IN",
+              "fetched_at": "2017-10-15T14:33:10Z"
+            },
+            {
+              "rank": 25222,
+              "country": "ID",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 13765,
+              "country": "TH",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 4235,
+              "country": "PH",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 21766,
+              "country": "ES",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 4608,
+              "country": "NZ",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 7850,
+              "country": "US",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 19835,
+              "country": "HK",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 5060,
+              "country": "IE",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 11223,
+              "country": "AU",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 14335,
+              "country": "CH",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 17794,
+              "country": "NG",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 4540,
+              "country": "GB",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 6973,
+              "country": "KR",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 23960,
+              "country": "ZA",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 19971,
+              "country": "MX",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 6013,
+              "country": "DK",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 10719,
+              "country": "NL",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 11442,
+              "country": "CA",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 44105,
+              "country": "JP",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            },
+            {
+              "rank": 22363,
+              "country": "DE",
+              "fetched_at": "2017-10-15T14:33:11Z"
+            }
+          ]
+        }
+      },
+      "author": {
+        "id": 1581977,
+        "name": "Keith Idec"
+      },
+      "entities": {
+        "title": [
+          {
+            "text": "Bradford",
+            "score": 1.0,
+            "types": [ "Location", "PopulatedPlace", "Settlement", "Place" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Bradford" },
+            "indices": [ [ 39, 46 ] ]
+          },
+          {
+            "text": "Mikaela Mayer Drops",
+            "types": [ "Person" ],
+            "indices": [ [ 0, 18 ] ]
+          },
+          {
+            "text": "Decisions Vanessa Bradford",
+            "types": [ "Person" ],
+            "indices": [ [ 21, 46 ] ]
+          }
+        ],
+        "body": [
+          {
+            "text": "Bradford",
+            "score": 0.9401558637619019,
+            "types": [ "Location", "PopulatedPlace", "Settlement", "Place", "Organisation" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Bradford" },
+            "indices": [
+              [ 123, 130 ],
+              [ 221, 228 ],
+              [ 361, 368 ],
+              [ 469, 476 ],
+              [ 707, 714 ],
+              [ 775, 782 ],
+              [ 839, 846 ],
+              [ 899, 906 ],
+              [ 1092, 1099 ]
+            ]
+          },
+          {
+            "text": "uppercut",
+            "score": 0.6889268159866333,
+            "types": [ "Food", "product", "Punch" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Uppercut" },
+            "indices": [ [ 744, 751 ] ]
+          },
+          {
+            "text": "Edmonton, Alberta",
+            "score": 0.9999924302101135,
+            "types": [ "Location", "City", "PopulatedPlace", "Capital", "Settlement", "Place" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Edmonton" },
+            "indices": [ [ 374, 390 ] ]
+          },
+          {
+            "text": "Canada",
+            "score": 0.9994595646858215,
+            "types": [ "Location", "PopulatedPlace", "Country", "Place", "MusicalArtist" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Canada" },
+            "indices": [ [ 393, 398 ] ]
+          },
+          {
+            "text": "junior lightweight",
+            "score": 1.0,
+            "types": [ "Organisation", "Division" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Super_featherweight" },
+            "indices": [
+              [ 41, 58 ],
+              [ 1205, 1222 ]
+            ]
+          },
+          {
+            "text": "hard left",
+            "score": 0.8117659687995911,
+            "types": [ "Term" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Hard_left" },
+            "indices": [ [ 1882, 1890 ] ]
+          },
+          {
+            "text": "knockout",
+            "score": 0.9418795108795166,
+            "types": [ "Criterion" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Knockout" },
+            "indices": [ [ 1036, 1043 ] ]
+          },
+          {
+            "text": "Missouri",
+            "score": 0.9944891929626465,
+            "types": [ "Location", "PopulatedPlace", "State", "Settlement", "AdministrativeRegion", "Region", "Place" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Missouri" },
+            "indices": [ [ 1545, 1552 ] ]
+          },
+          {
+            "text": "Los Angeles",
+            "score": 0.999070942401886,
+            "types": [ "Location", "City", "PopulatedPlace", "Settlement", "Place" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Los_Angeles" },
+            "indices": [ [ 163, 173 ] ]
+          },
+          {
+            "text": "Muwendo",
+            "types": [ "Place", "Person" ],
+            "indices": [
+              [ 18, 24 ],
+              [ 1231, 1237 ],
+              [ 1301, 1307 ],
+              [ 1368, 1374 ],
+              [ 1630, 1636 ],
+              [ 1693, 1699 ],
+              [ 1719, 1725 ],
+              [ 1788, 1794 ],
+              [ 1967, 1973 ]
+            ]
+          },
+          {
+            "text": "Edmonton",
+            "types": [ "Place" ],
+            "indices": [ [ 374, 381 ] ]
+          },
+          {
+            "text": "Alberta",
+            "types": [ "Place" ],
+            "indices": [ [ 384, 390 ] ]
+          },
+          {
+            "text": "Ugandan",
+            "types": [ "Place" ],
+            "indices": [ [ 1197, 1203 ] ]
+          },
+          {
+            "text": "St. Joseph",
+            "types": [ "Place" ],
+            "indices": [ [ 1533, 1542 ] ]
+          },
+          {
+            "text": "Mikaela Mayer",
+            "types": [ "Person" ],
+            "indices": [ [ 69, 81 ] ]
+          },
+          {
+            "text": "Vanessa Bradford",
+            "types": [ "Person" ],
+            "indices": [ [ 115, 130 ] ]
+          },
+          {
+            "text": "Mayer",
+            "types": [ "Person", "Organisation" ],
+            "indices": [
+              [ 77, 81 ],
+              [ 176, 180 ],
+              [ 458, 462 ],
+              [ 539, 543 ],
+              [ 647, 651 ],
+              [ 756, 760 ],
+              [ 817, 821 ],
+              [ 941, 945 ],
+              [ 1014, 1018 ]
+            ]
+          },
+          {
+            "text": "Ismail Muwendo",
+            "types": [ "Person" ],
+            "indices": [ [ 1224, 1237 ] ]
+          },
+          {
+            "text": "Andre Wilson",
+            "types": [ "Person" ],
+            "indices": [ [ 1248, 1259 ] ]
+          },
+          {
+            "text": "John Moralde",
+            "types": [ "Person" ],
+            "indices": [ [ 1480, 1491 ] ]
+          },
+          {
+            "text": "Wilson",
+            "types": [ "Person", "Organisation" ],
+            "indices": [
+              [ 1254, 1259 ],
+              [ 1504, 1509 ],
+              [ 1588, 1593 ],
+              [ 1801, 1806 ],
+              [ 1931, 1936 ]
+            ]
+          },
+          {
+            "text": "Los Angeles’ Mayer",
+            "types": [ "Organisation" ],
+            "indices": [ [ 163, 180 ] ]
+          }
+        ]
+      },
+      "keywords": [ "Drops", "Decisions", "Mayer", "Vanessa", "Mikaela", "Bradford", "junior lightweight", "Muwendo", "cards", "Wilson", "junior", "lightweight", "eight-rounder", "fight", "decision", "unanimous", "score", "night", "Saturday", "uppercut", "Edmonton, Alberta", "Canada", "hard left", "knockout", "Missouri", "Los Angeles" ],
+      "hashtags": [ "#Bradford", "#SuperFeatherweight", "#LosAngeles", "#Edmonton", "#Canada", "#Uppercut", "#Knockout", "#Missouri", "#HardLeft" ],
+      "characters_count": 2049,
+      "words_count": 362,
+      "sentences_count": 19,
+      "paragraphs_count": 11,
+      "categories": [
+        {
+          "id": "IAB17",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.17,
+          "confident": true,
+          "links": { "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB17" }
+        },
+        {
+          "id": "IAB17-5",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.11,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB17-5",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB17"
+          }
+        },
+        {
+          "id": "15014000",
+          "taxonomy": "iptc-subjectcode",
+          "level": 2,
+          "score": 0.33,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/15014000",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/15000000"
+          }
+        }
+      ],
+      "social_shares_count": {
+        "facebook": [],
+        "google_plus": [],
+        "linkedin": [],
+        "reddit": []
+      },
+      "media": [
+        {
+          "type": "image",
+          "url": "https://photo.boxingscene.com/uploads/mikaela-mayer_3.jpg",
+          "format": "JPEG",
+          "content_length": 46522,
+          "width": 640,
+          "height": 463
+        }
+      ],
+      "sentiment": {
+        "title": {
+          "polarity": "neutral",
+          "score": 0.778633
+        },
+        "body": {
+          "polarity": "positive",
+          "score": 0.680956
+        }
+      },
+      "language": "en",
+      "published_at": "2018-10-14T01:04:39Z",
+      "links": {
+        "permalink": "https://www.boxingscene.com/mikaela-mayer-drops-decisions-vanessa-bradford--132730",
+        "related_stories": "https://api.newsapi.aylien.com/api/v1/related_stories?story_id=183892397",
+        "coverages": "https://api.newsapi.aylien.com/api/v1/coverages?story_id=183892397"
+      }
+    },
+    {
+      "id": 183892395,
+      "title": "A Sneak Peek at Nike's Next-Generation Jordans",
+      "body": "If you want to feel old, forget the fact that WIRED is 25, and realize that Nike designed the first Air Jordan in 1984, for NBA star Michael Jordan. Thirty-four years later, the original red, black and white high tops have spawned their own sneaker subculture.\nThis morning, at the WIRED25 festival in San Francisco, famed Nike designer Tinker Hatfield was onstage with former WIRED editor in chief Scott Dadich. He lifted his feet to the packed crowd and give a sneak peek at a new generation of kicks—the latest Jordan running shoe.\nFor now it's called the GOAT.\nRyan Loughlin\n(As a former athlete himself, Hatfield’s designs for professional footwear are widely respected, and Hatfield’s design of the third generation of the Air Jordan is credited with being the key reason that Michael Jordan decided to stick with the brand, instead of jumping ship to a competitor.)\n“This is a running shoe for people who don’t like to run,” says Hatfield, explaining that he designed it for high-level athletes, like 240-pound football linebackers, who have to run as part of their training to stay aerobically fit, but who aren’t especially fast, or don’t have great form and technique.\nThese new running shoes have extra stabilizing structures built into a black nylon latticework frame around the heel. The secret is a series of fins on the back: Slower runners typically land on their heel, explained Hatfield, whereas faster sprinters land on their forefoot. This shoe compensates for the dawdlers, who may be slogging through their workout.\n“It’s about ready to be commercialized, it’s been shown to the sales force, its been shown to the retailers,” says Hatfield. But, as of yet, it doesn’t have an official name. So Hatfield’s calling it the GOAT running shoe, for Michael Jordan, now known at the Greatest Player of All Time on the NBA courts. Nike may not be ready to share the shoes with the wider world just yet, but you can watch the unofficial unveil in the video below.\nTinker Hatfield On His Career at Nike and His New GOAT Jordans | WIRED25\nMore Great WIRED Stories",
+      "summary": { "sentences": [ "This morning, at the WIRED25 festival in San Francisco, famed Nike designer Tinker Hatfield was onstage with former WIRED editor in chief Scott Dadich.", "Ryan Loughlin\n(As a former athlete himself, Hatfield’s designs for professional footwear are widely respected, and Hatfield’s design of the third generation of the Air Jordan is credited with being the key reason that Michael Jordan decided to stick with the brand, instead of jumping ship to a competitor.)", "“This is a running shoe for people who don’t like to run,” says Hatfield, explaining that he designed it for high-level athletes, like 240-pound football linebackers, who have to run as part of their training to stay aerobically fit, but who aren’t especially fast, or don’t have great form and technique.", "So Hatfield’s calling it the GOAT running shoe, for Michael Jordan, now known at the Greatest Player of All Time on the NBA courts.", "Tinker Hatfield On His Career at Nike and His New GOAT Jordans | WIRED25\nMore Great WIRED Stories" ] },
+      "source": {
+        "id": 2,
+        "name": "Wired",
+        "title": "Wired",
+        "description": "Award-winning site about web technology and culture.",
+        "links_in_count": 104082,
+        "home_page_url": "http://www.wired.com/",
+        "domain": "wired.com",
+        "locations": [ { "country": "US" } ],
+        "scopes": [
+          {
+            "country": "US",
+            "level": "international"
+          }
+        ],
+        "rankings": {
+          "alexa": [
+            {
+              "rank": 997,
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 1186,
+              "country": "IN",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 3107,
+              "country": "ID",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 754,
+              "country": "SG",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 896,
+              "country": "AT",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 2791,
+              "country": "TR",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 5872,
+              "country": "RU",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 1391,
+              "country": "ES",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 1809,
+              "country": "PK",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 419,
+              "country": "US",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 1159,
+              "country": "HK",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 477,
+              "country": "IE",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 887,
+              "country": "AU",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 431,
+              "country": "CH",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 856,
+              "country": "NG",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 612,
+              "country": "GB",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 1364,
+              "country": "FR",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 1341,
+              "country": "KR",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 2485,
+              "country": "BR",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 1553,
+              "country": "IT",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 1184,
+              "country": "ZA",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 1583,
+              "country": "MX",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 1091,
+              "country": "NL",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 658,
+              "country": "CA",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 9428,
+              "country": "JP",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 2351,
+              "country": "CN",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            },
+            {
+              "rank": 1247,
+              "country": "DE",
+              "fetched_at": "2016-08-22T16:46:37Z"
+            }
+          ]
+        }
+      },
+      "author": {
+        "id": 285101,
+        "name": "Jack Stewart"
+      },
+      "entities": {
+        "title": [
+          {
+            "text": "Nike",
+            "types": [ "Organisation" ],
+            "indices": [ [ 16, 19 ] ]
+          }
+        ],
+        "body": [
+          {
+            "text": "star",
+            "score": 0.9975245594978333,
+            "types": [ "Sphere", "ArtificialSatellite", "product" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Star" },
+            "indices": [ [ 128, 131 ] ]
+          },
+          {
+            "text": "Hatfield",
+            "score": 0.9069226980209351,
+            "types": [ "PopulatedPlace", "Town", "Location", "Place", "Settlement", "Person" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Hatfield,_Hertfordshire" },
+            "indices": [
+              [ 344, 351 ],
+              [ 609, 616 ],
+              [ 680, 687 ],
+              [ 937, 944 ],
+              [ 1396, 1403 ],
+              [ 1653, 1660 ],
+              [ 1716, 1723 ],
+              [ 1984, 1991 ]
+            ]
+          },
+          {
+            "text": "nylon",
+            "score": 1.0,
+            "types": [ "Designation", "Place", "Album", "product" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Nylon" },
+            "indices": [ [ 1256, 1260 ] ]
+          },
+          {
+            "text": "Jordan",
+            "score": 0.9786632657051086,
+            "types": [ "PopulatedPlace", "Kingdom", "Location", "Place", "Country" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Jordan" },
+            "indices": [
+              [ 104, 109 ],
+              [ 141, 146 ],
+              [ 514, 519 ],
+              [ 733, 738 ],
+              [ 791, 796 ],
+              [ 1773, 1778 ]
+            ]
+          },
+          {
+            "text": "latticework",
+            "score": 1.0,
+            "types": [ "Software", "product", "Framework" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Latticework" },
+            "indices": [ [ 1262, 1272 ] ]
+          },
+          {
+            "text": "Nike",
+            "score": 0.9778710007667542,
+            "types": [ "Organisation", "Company", "Agent" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Nike,_Inc." },
+            "indices": [
+              [ 76, 79 ],
+              [ 323, 326 ],
+              [ 1845, 1848 ],
+              [ 2010, 2013 ]
+            ]
+          },
+          {
+            "text": "This morning",
+            "score": 0.9927241206169128,
+            "types": [ "Work", "product", "Programme", "TelevisionShow" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/This_Morning_(TV_programme)" },
+            "indices": [ [ 261, 272 ] ]
+          },
+          {
+            "text": "NBA",
+            "score": 0.9997679591178894,
+            "types": [ "SoccerLeague", "BasketballLeague", "Men", "Organisation", "Agent", "SportsLeague" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/National_Basketball_Association" },
+            "indices": [
+              [ 124, 126 ],
+              [ 1833, 1835 ]
+            ]
+          },
+          {
+            "text": "pound",
+            "score": 0.6816359758377075,
+            "types": [ "Unit", "Organisation" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Pound_(mass)" },
+            "indices": [ [ 1012, 1016 ] ]
+          },
+          {
+            "text": "aerobically",
+            "score": 0.6734422445297241,
+            "types": [ "Set" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Cellular_respiration" },
+            "indices": [ [ 1090, 1100 ] ]
+          },
+          {
+            "text": "Air Jordan",
+            "score": 1.0,
+            "types": [ "Brand", "Company" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Air_Jordan" },
+            "indices": [
+              [ 100, 109 ],
+              [ 729, 738 ]
+            ]
+          },
+          {
+            "text": "subculture",
+            "score": 0.9877310991287231,
+            "types": [ "Band", "Group", "RecordLabel" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Subculture" },
+            "indices": [ [ 249, 258 ] ]
+          },
+          {
+            "text": "Time",
+            "score": 0.960472047328949,
+            "types": [ "WrittenWork", "product", "Work", "PeriodicalLiterature", "Magazine" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Time_(magazine)" },
+            "indices": [ [ 1821, 1824 ] ]
+          },
+          {
+            "text": "San Francisco",
+            "score": 0.999011754989624,
+            "types": [ "PopulatedPlace", "Center", "Location", "Building", "Place", "Settlement", "City" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/San_Francisco" },
+            "indices": [ [ 302, 314 ] ]
+          },
+          {
+            "text": "sneaker",
+            "score": 1.0,
+            "types": [ "Fashion", "Shoes" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Sneakers" },
+            "indices": [ [ 241, 247 ] ]
+          },
+          {
+            "text": "running shoe",
+            "score": 1.0,
+            "types": [ "Fashion", "Shoes" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Sneakers" },
+            "indices": [
+              [ 521, 532 ],
+              [ 884, 895 ],
+              [ 1747, 1758 ]
+            ]
+          },
+          {
+            "text": "Michael Jordan",
+            "score": 0.9999957084655762,
+            "types": [ "Person", "Agent", "Athlete", "BasketballPlayer", "Player" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Michael_Jordan" },
+            "indices": [
+              [ 133, 146 ],
+              [ 783, 796 ],
+              [ 1765, 1778 ]
+            ]
+          },
+          {
+            "text": "WIRED",
+            "score": 0.9993888735771179,
+            "types": [ "WrittenWork", "product", "Work", "PeriodicalLiterature", "Magazine", "Organisation" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Wired_(magazine)" },
+            "indices": [
+              [ 46, 50 ],
+              [ 377, 381 ],
+              [ 2061, 2065 ]
+            ]
+          },
+          {
+            "text": "football",
+            "score": 0.9405894875526428,
+            "types": [ "Sport", "Activity" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Association_football" },
+            "indices": [ [ 1018, 1025 ] ]
+          },
+          {
+            "text": "heel",
+            "score": 0.962155282497406,
+            "types": [ "Wrestler" ],
+            "links": { "dbpedia": "http://dbpedia.org/resource/Heel_(professional_wrestling)" },
+            "indices": [
+              [ 1291, 1294 ],
+              [ 1380, 1383 ]
+            ]
+          },
+          {
+            "text": "Tinker Hatfield",
+            "types": [ "Person" ],
+            "indices": [
+              [ 337, 351 ],
+              [ 1977, 1991 ]
+            ]
+          },
+          {
+            "text": "Scott Dadich",
+            "types": [ "Person" ],
+            "indices": [ [ 399, 410 ] ]
+          },
+          {
+            "text": "WIRED25",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 282, 288 ],
+              [ 2042, 2048 ]
+            ]
+          },
+          {
+            "text": "GOAT",
+            "types": [ "Organisation" ],
+            "indices": [
+              [ 559, 562 ],
+              [ 1742, 1745 ],
+              [ 2027, 2030 ]
+            ]
+          }
+        ]
+      },
+      "keywords": [ "Nike", "Peek", "Next-Generation", "Sneak", "Jordans", "Hatfield’s design", "Hatfield’s designs", "Michael Jordan", "shoe", "Nike designer", "Hatfield", "Jordan", "black", "Michael", "GOAT", "ready", "heel", "designer", "great", "generation", "athlete", "star", "nylon", "latticework", "This morning", "NBA", "force", "footwear", "pound", "aerobically", "Air Jordan", "subculture", "Time", "San Francisco", "sneaker", "running shoe", "WIRED", "football" ],
+      "hashtags": [ "#HatfieldHertfordshire", "#NikeInc", "#Sneakers", "#WIRED", "#Wired", "#MichaelJordan", "#AirJordan", "#NBA", "#NationalBasketballAssociation", "#Heel", "#Star", "#Subculture", "#ThisMorning", "#SanFrancisco", "#Jordan", "#Footwear", "#Pound", "#AssociationFootball", "#CellularRespiration", "#Nylon", "#Latticework", "#Force", "#Time" ],
+      "characters_count": 2074,
+      "words_count": 370,
+      "sentences_count": 15,
+      "paragraphs_count": 10,
+      "categories": [
+        {
+          "id": "IAB18-6",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.37,
+          "confident": false,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB18-6",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB18"
+          }
+        },
+        {
+          "id": "IAB17",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.08,
+          "confident": true,
+          "links": { "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB17" }
+        },
+        {
+          "id": "IAB17-30",
+          "taxonomy": "iab-qag",
+          "level": 2,
+          "score": 0.08,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB17-30",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB17"
+          }
+        },
+        {
+          "id": "IAB18",
+          "taxonomy": "iab-qag",
+          "level": 1,
+          "score": 0.08,
+          "confident": false,
+          "links": { "self": "https://api.aylien.com/api/v1/classify/taxonomy/iab-qag/IAB18" }
+        },
+        {
+          "id": "15008001",
+          "taxonomy": "iptc-subjectcode",
+          "level": 3,
+          "score": 0.24,
+          "confident": true,
+          "links": {
+            "self": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/15008001",
+            "parent": "https://api.aylien.com/api/v1/classify/taxonomy/iptc-subjectcode/15008000"
+          }
+        }
+      ],
+      "social_shares_count": {
+        "facebook": [],
+        "google_plus": [],
+        "linkedin": [],
+        "reddit": []
+      },
+      "media": [
+        {
+          "type": "image",
+          "url": "https://media.wired.com/photos/5bc290e7f8a2e62d0bd5c5ae/191:100/pass/Nike-GOAT-SHOE-STILL-w.jpg",
+          "format": "JPEG",
+          "content_length": 216960,
+          "width": 1909,
+          "height": 999
+        }
+      ],
+      "sentiment": {
+        "title": {
+          "polarity": "positive",
+          "score": 0.546996
+        },
+        "body": {
+          "polarity": "positive",
+          "score": 0.982762
+        }
+      },
+      "language": "en",
+      "published_at": "2018-10-14T01:04:38Z",
+      "links": {
+        "permalink": "https://www.wired.com/story/wired-25-nikes-new-jordan",
+        "related_stories": "https://api.newsapi.aylien.com/api/v1/related_stories?story_id=183892395",
+        "coverages": "https://api.newsapi.aylien.com/api/v1/coverages?story_id=183892395"
+      }
+    }
+  ],
+  "clusters": [],
+  "next_page_cursor": "AoJwx9CGuOYCL1N0b3J5IDE4Mzg5MjM5NQ=="
+}
+
