@@ -15,12 +15,6 @@ namespace API.Controllers
         [HttpPost]
         public IActionResult RegisterUser([FromBody] User input)
         {
-            /*
-             * This controller will grab the posted user data, check if username
-             * already exists, if so, return error, if not, make the entry in the database
-             * and return back the User ID for that new entry
-             */
-
             MySqlConnection conn = new MySqlConnection("server=142.93.63.223; " +
                                                        "user id=user; " +
                                                        "password=gift?FINISH?finland?45; " +
@@ -28,17 +22,21 @@ namespace API.Controllers
                                                        "persistsecurityinfo=True; " +
                                                        "SslMode=none");
 
-            string checkUN = "SELECT 1 FROM Users WHERE userName='"+input.username+"'";
-            string insertUser = "INSERT IGNORE INTO Users (userName, password) " +
-                               "VALUES ('" + input.username + "','" + input.password + "')";
+            MySqlCommand checkUN = conn.CreateCommand();
 
-            MySqlCommand cmd_checkUN = new MySqlCommand(checkUN, conn);
-            MySqlCommand cmd_insertUser = new MySqlCommand(insertUser, conn);
+            checkUN.CommandText = "SELECT 1 FROM Users WHERE userName = @userName";
+            checkUN.Parameters.AddWithValue("@userName", input.username);
+
+            MySqlCommand insertUser = conn.CreateCommand();
+
+            insertUser.CommandText = "INSERT IGNORE INTO Users (userName, password) VALUES (@userName, @password)";
+            insertUser.Parameters.AddWithValue("@userName", input.username);
+            insertUser.Parameters.AddWithValue("@password", input.password);
 
             conn.Open();
 
             //execute check for username already in database
-            var dataReader_chk = cmd_checkUN.ExecuteReader();
+            var dataReader_chk = checkUN.ExecuteReader();
 
             if (dataReader_chk.HasRows)
             {
@@ -56,9 +54,8 @@ namespace API.Controllers
 
                 //open up a new data reader to insert the new user into the database
                 System.Diagnostics.Debug.WriteLine("Value " + input.username + " not found in Users, inserting new entry");
-                var dataReader_ins = cmd_insertUser.ExecuteReader();
+                insertUser.ExecuteNonQuery();
                 System.Diagnostics.Debug.WriteLine("entry added.. closing reader");
-                dataReader_ins.Close();
             }
 
             conn.Close();
@@ -82,24 +79,19 @@ namespace API.Controllers
                                                        "persistsecurityinfo=True; " +
                                                        "SslMode=none");
 
-            string checkCred = "SELECT EXISTS (" +
-                                 "SELECT * FROM Users WHERE userName = '"+input.username+"' AND password = '"+input.password+"'"+
-                               ")";
-
-            MySqlCommand checkLogin = new MySqlCommand(checkCred, conn);
+            MySqlCommand checkLogin = conn.CreateCommand();
+            checkLogin.CommandText = "SELECT EXISTS (SELECT * FROM Users WHERE userName = @userName AND password = @password)";
+            checkLogin.Parameters.AddWithValue("@userName", input.username);
+            checkLogin.Parameters.AddWithValue("@password", input.password);
 
             conn.Open();
 
             //execute SQL to verify existence of username and password combination
-            var dataReader_login = checkLogin.ExecuteReader();
+            var login = checkLogin.ExecuteReader();
+            login.Read();
+            string result = login[0].ToString();
 
-            //read in query result and close respective connections
-            dataReader_login.Read();
-            string result = dataReader_login[0].ToString();
-
-            System.Diagnostics.Debug.WriteLine("RESULT: " + result);
-
-            dataReader_login.Close();
+            login.Close();
             conn.Close();
 
             if (result == "0")

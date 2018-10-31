@@ -23,49 +23,35 @@ namespace API.Controllers
                                            "SslMode=none");
 
             conn.Open();
-            foreach (SwipeData item in articleData.rootObject)
+            try
             {
-                //System.Diagnostics.Debug.WriteLine("{0} {1} {2} {3} {4} {5}\n", item.userName, item.articleID, item.title, item.body, item.swipe, item.sentiment);
-                string _userName = item.userName;
-                long _articleID = item.articleID;
-                string _title = item.title;
-                string _body = item.body;
-                int _swipe = item.swipe;
-                float _sentiment = item.sentiment;
-
-                //SQL query to insert one SwipeData object into the database
-                //This query will be called multiple times for each article object sent in articleData
-                string insertData = "INSERT INTO ToProcess VALUES(" + "'" + _userName + "'," +
-                                                                        _articleID + "," +
-                                                                  "'" + _title + "','" +
-                                                                        _body + "'," +
-                                                                        _swipe + "," +
-                                                                        _sentiment +
-                                                                 ")";
-
-                //SQL query to insert the above entry into the historical table
-                string insertHistory = "INSERT INTO ArticleHistory (userName, articleID) VALUES(" + "'" + _userName + "'," +
-                                                                                                          _articleID + ")";
-
-                MySqlCommand cmd_insertSwipeData = new MySqlCommand(insertData, conn);
-                MySqlCommand cmd_insertSwipeHisrory = new MySqlCommand(insertHistory, conn);
-
-                cmd_insertSwipeData.ExecuteNonQuery();
-                cmd_insertSwipeHisrory.ExecuteNonQuery();
-
-                /*
-                foreach(string keyword in item.keywords)
+                foreach (SwipeData item in articleData.rootObject)
                 {
-                    string _keyword = keyword;
-                    string insertKeyword = "INSERT INTO ToProcessKeywords VALUES('" + _userName + "','" + _articleID + "','" + _keyword + "')";
+                    MySqlCommand insertSwipe = conn.CreateCommand();
 
-                    MySqlCommand cmd_insertKeyword = new MySqlCommand(insertKeyword, conn);
-                    cmd_insertKeyword.ExecuteNonQuery();
+                    insertSwipe.CommandText = "INSERT INTO ToProcess VALUES(@userName, @articleID, @title, @body, @swipe, @sentiment)";
+                    insertSwipe.Parameters.AddWithValue("@userName", item.userName);
+                    insertSwipe.Parameters.AddWithValue("@articleID", item.articleID);
+                    insertSwipe.Parameters.AddWithValue("@title", item.title);
+                    insertSwipe.Parameters.AddWithValue("@body", item.body);
+                    insertSwipe.Parameters.AddWithValue("@swipe", item.swipe);
+                    insertSwipe.Parameters.AddWithValue("@sentiment", item.sentiment);
+
+                    MySqlCommand insertHist = conn.CreateCommand();
+
+                    insertHist.CommandText = "INSERT INTO ArticleHistory (userName, articleID) VALUES (@userName, @articleID)";
+                    insertHist.Parameters.AddWithValue("@userName", item.userName);
+                    insertHist.Parameters.AddWithValue("@articleID", item.articleID);
+
+                    insertSwipe.ExecuteNonQuery();
+                    insertHist.ExecuteNonQuery();
                 }
-                */
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
             }
             conn.Close();
-
             return Ok();
         }
     }
