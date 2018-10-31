@@ -13,7 +13,7 @@ namespace API.Models.SwipeModels
         public string body { get; set; }
         public int swipe { get; set; }
         public float sentiment { get; set; }
-        public List<string> keywords { get; set; }
+        //public List<string> keywords { get; set; }
     }
 
     public class RootSwipeObject

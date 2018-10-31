@@ -53,6 +53,7 @@ namespace API.Controllers
                 cmd_insertSwipeData.ExecuteNonQuery();
                 cmd_insertSwipeHisrory.ExecuteNonQuery();
 
+                /*
                 foreach(string keyword in item.keywords)
                 {
                     string _keyword = keyword;
@@ -61,6 +62,7 @@ namespace API.Controllers
                     MySqlCommand cmd_insertKeyword = new MySqlCommand(insertKeyword, conn);
                     cmd_insertKeyword.ExecuteNonQuery();
                 }
+                */
             }
             conn.Close();
 
