@@ -57,7 +57,7 @@ namespace API.Controllers
 
             if (checkKeyword_result < 20)
             {
-                query = "https://api.newsapi.aylien.com/api/v1/stories?language=en&published_at.start=NOW-8DAYS%2FDAY&published_at.end=NOW&sort_by=recency";
+                query = "https://api.newsapi.aylien.com/api/v1/stories?language=en&published_at.start=NOW-8DAYS%2FDAY&published_at.end=NOW&sort_by=recency&per_page="+defaultData.num;
                 def_random.topic = "random";
                 def_random.query = query;
 

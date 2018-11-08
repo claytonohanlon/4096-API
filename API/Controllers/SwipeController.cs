@@ -45,6 +45,9 @@ namespace API.Controllers
 
                     insertSwipe.ExecuteNonQuery();
                     insertHist.ExecuteNonQuery();
+
+                    insertSwipe.Parameters.Clear();
+                    insertHist.Parameters.Clear();
                 }
             }
             catch (Exception e)
