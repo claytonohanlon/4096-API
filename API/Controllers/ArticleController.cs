@@ -19,11 +19,15 @@ namespace API.Controllers
         {
             //if no parameters are submitted, set default values
             var defaultData = new QueryModel();
-            if (data.num == 0 || data.not == null)
+            if (data.not == null)
             {
-                defaultData.username = data.username;
-                defaultData.num = 3;
                 defaultData.not = new List<string>();
+                if (data.num == 0)
+                    defaultData.num = 3;
+                else
+                    defaultData.num = data.num;
+
+                defaultData.username = data.username;
             }
             else
             {
@@ -41,27 +45,30 @@ namespace API.Controllers
 
 
             //Query the KeywordWeights table for the keyword count for the specific user.
-            string checkForKeywords = "SELECT COUNT(keyword) FROM KeywordWeights WHERE userName = '"+defaultData.username+"'";
-            MySqlCommand cmd_checkForKeywords = new MySqlCommand(checkForKeywords, conn);
+            MySqlCommand checkForKeywords = conn.CreateCommand();
+            checkForKeywords.CommandText = "SELECT COUNT(keyword) FROM KeywordWeights WHERE userName = @userName";
+            checkForKeywords.Parameters.AddWithValue("@userName", defaultData.username);
+
             conn.Open();
-            var checkKeyword_reader = cmd_checkForKeywords.ExecuteReader();
+            var checkKeyword_reader = checkForKeywords.ExecuteReader();
             checkKeyword_reader.Read();
             int checkKeyword_result = (int)(long)checkKeyword_reader[0];
+            checkKeyword_reader.Close();
 
 
-            //If the user doesn't have sufficient keyword data (less than 20 keywords), 
-            //return 10 random articles, in english, that are published within the past 8 days
+            //If the user doesn't have sufficient keyword data (less than 100 keywords), 
+            //return x(num) random articles, in english, that are published within the past 8 days
             string query = string.Empty;
-            ArticleModel def_random = new ArticleModel();
+            ArticleModel result = new ArticleModel();
             ToReturn to_return = new ToReturn() { ret = new List<ArticleModel>() };
 
-            if (checkKeyword_result < 20)
+            if (checkKeyword_result < 100)
             {
                 query = "https://api.newsapi.aylien.com/api/v1/stories?language=en&published_at.start=NOW-8DAYS%2FDAY&published_at.end=NOW&sort_by=recency&per_page="+defaultData.num;
-                def_random.topic = "random";
-                def_random.query = query;
+                result.topic = "random";
+                result.query = query;
 
-                to_return.ret.Add(def_random);
+                to_return.ret.Add(result);
                 
                 /*SAMPLE RESPONSE FOR A RANDOM ARTICLE
                  *{
@@ -83,11 +90,76 @@ namespace API.Controllers
                  * and constructing the query appropriately.
                  * Make sure to add in the number of articles to return
                  */
+
+                //grab random keyword from the top 15
+                MySqlCommand getTop = conn.CreateCommand();
+                getTop.CommandText = "SELECT keyword FROM (" +
+                                        "SELECT * FROM KeywordWeights " +
+                                         "WHERE userName = @userName " +
+                                         "ORDER BY weight DESC " +
+                                         "LIMIT 25) _t " +
+                                     "ORDER BY RAND() " +
+                                     "LIMIT 1";
+                getTop.Parameters.AddWithValue("@userName", defaultData.username);
+
+                var topResult = getTop.ExecuteReader();
+                topResult.Read();
+                string topKeyword = topResult.GetString(0);
+                topResult.Close();
+
+                string topQuery = "https://api.newsapi.aylien.com/api/v1/stories?language=en&published_at.start=NOW-8DAYS%2FDAY&published_at.end=NOW&sort_by=recency&per_page=" + 
+                         "3" + "&text="+ topKeyword;
+                result.topic = topKeyword;
+                result.query = topQuery;
+
+                to_return.ret.Add(result);
+                result = new ArticleModel();
+
+
+                //get random keyword for 'neutral' status
+                MySqlCommand getN = conn.CreateCommand();
+                getN.CommandText = "SELECT keyword FROM CORE.KeywordWeights WHERE userName = @userName ORDER BY RAND() LIMIT 1";
+                getN.Parameters.AddWithValue("@userName", defaultData.username);
+
+                var nResult = getN.ExecuteReader();
+                nResult.Read();
+                string nKeyword = nResult.GetString(0);
+                nResult.Close();
+
+                string nQuery = "https://api.newsapi.aylien.com/api/v1/stories?language=en&published_at.start=NOW-8DAYS%2FDAY&published_at.end=NOW&sort_by=recency&per_page=" +
+                         "3" + "&text=" + nKeyword;
+                result.topic = nKeyword;
+                result.query = nQuery;
+
+                to_return.ret.Add(result);
+                result = new ArticleModel();
+
+
+                //grab random keyword from the bottom 15
+                MySqlCommand getBot = conn.CreateCommand();
+                getBot.CommandText = "SELECT keyword FROM (" +
+                                        "SELECT * FROM KeywordWeights " +
+                                         "WHERE userName = @userName " +
+                                         "ORDER BY weight ASC " +
+                                         "LIMIT 25) _t " +
+                                     "ORDER BY RAND() " +
+                                     "LIMIT 1";
+                getBot.Parameters.AddWithValue("@userName", defaultData.username);
+
+                var botResult = getBot.ExecuteReader();
+                botResult.Read();
+                string botKeyword = botResult.GetString(0);
+                botResult.Close();
+
+                string botQuery = "https://api.newsapi.aylien.com/api/v1/stories?language=en&published_at.start=NOW-8DAYS%2FDAY&published_at.end=NOW&sort_by=recency&per_page=" +
+                         "3" + "&text=" + botKeyword;
+                result.topic = botKeyword;
+                result.query = botQuery;
+
+                to_return.ret.Add(result);
+                result = new ArticleModel();
+
             }
-
-            //string testOutput = JsonConvert.SerializeObject(to_return);
-            //System.Diagnostics.Debug.WriteLine(testOutput);
-
             return to_return;
         }
 
@@ -139,41 +211,5 @@ namespace API.Controllers
 
             return ret;
         }
-
-
-        /*
-        public string resultText { get; set; }
-
-        public async Task GetRandom()
-        {
-            string URL = "https://api.newsapi.aylien.com/api/v1/stories";
-            string AppID = "e8e4d527";
-            string AppKey = "94645f99e3810d0aa85fc6f5a3ba8726";
-            var language = new List<string>() { "en" };
-
-
-            HttpClient client = new HttpClient();
-
-            var request = new HttpRequestMessage(HttpMethod.Get, URL);
-            request.Headers.Add("X-AYLIEN-NewsAPI-Application-ID", AppID);
-            request.Headers.Add("X-AYLIEN-NewsAPI-Application-Key", AppKey);
-
-            var response = await client.SendAsync(request);
-
-            if(response.IsSuccessStatusCode)
-            {
-                resultText = await response.Content.ReadAsStringAsync();
-                System.Diagnostics.Debug.WriteLine("SUCCESS");
-            }
-            else
-            {
-                resultText = "An error has occured..";
-                System.Diagnostics.Debug.WriteLine("FAIL");
-            }
-
-            System.Diagnostics.Debug.WriteLine("\nTHIS IS THE DATA\n");
-            System.Diagnostics.Debug.WriteLine(resultText);
-        }
-        */
     }
 }
