@@ -91,6 +91,42 @@ namespace API.Controllers
             return to_return;
         }
 
+        [HttpPost]
+        public List<ArticleHistory> GetHistory([FromBody] RequestHistory toSearch)
+        {
+            List<ArticleHistory> ret = new List<ArticleHistory>();
+            MySqlConnection conn = new MySqlConnection("server=142.93.63.223; " +
+                                          "user id=user; " +
+                                          "password=gift?FINISH?finland?45; " +
+                                          "database=CORE; " +
+                                          "persistsecurityinfo=True; " +
+                                          "SslMode=none");
+
+            MySqlCommand fetchHist = conn.CreateCommand();
+
+            fetchHist.CommandText = "SELECT articleID, timeStamp FROM ArticleHistory WHERE userName=@username";
+            fetchHist.Parameters.AddWithValue("@username", toSearch.username);
+
+            conn.Open();
+
+            var dataReader = fetchHist.ExecuteReader();
+
+            if(dataReader.HasRows)
+            {
+                while(dataReader.Read())
+                {
+                    ret.Add(new ArticleHistory { articleID = dataReader.GetString(0), title = "placeholder" });
+                }
+            }
+            else
+            {
+                dataReader.Close();
+                ret.Add(new ArticleHistory { articleID = "No rows returned" });
+            }
+
+            return ret;
+        }
+
 
         /*
         public string resultText { get; set; }
