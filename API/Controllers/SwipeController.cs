@@ -39,9 +39,10 @@ namespace API.Controllers
 
                     MySqlCommand insertHist = conn.CreateCommand();
 
-                    insertHist.CommandText = "INSERT INTO ArticleHistory (userName, articleID) VALUES (@userName, @articleID)";
+                    insertHist.CommandText = "INSERT INTO ArticleHistory (userName, articleID, title) VALUES (@userName, @articleID, @title)";
                     insertHist.Parameters.AddWithValue("@userName", item.userName);
                     insertHist.Parameters.AddWithValue("@articleID", item.articleID);
+                    insertHist.Parameters.AddWithValue("@title", item.title);
 
                     insertSwipe.ExecuteNonQuery();
                     insertHist.ExecuteNonQuery();

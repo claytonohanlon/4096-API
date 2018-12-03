@@ -104,7 +104,7 @@ namespace API.Controllers
 
             MySqlCommand fetchHist = conn.CreateCommand();
 
-            fetchHist.CommandText = "SELECT articleID, timeStamp FROM ArticleHistory WHERE userName=@username";
+            fetchHist.CommandText = "SELECT articleID, timeStamp, title FROM ArticleHistory WHERE userName=@username";
             fetchHist.Parameters.AddWithValue("@username", toSearch.username);
 
             conn.Open();
@@ -115,7 +115,20 @@ namespace API.Controllers
             {
                 while(dataReader.Read())
                 {
-                    ret.Add(new ArticleHistory { articleID = dataReader.GetString(0), title = "placeholder" });
+                    ArticleHistory data = new ArticleHistory();
+                    if(dataReader.IsDBNull(2))
+                    {
+                        data.articleID = dataReader.GetString(0);
+                        data.timeStamp = dataReader.GetString(1);
+                        data.title = "No Title Found";
+                    }
+                    else
+                    {
+                        data.articleID = dataReader.GetString(0);
+                        data.timeStamp = dataReader.GetString(1);
+                        data.title = dataReader.GetString(2);
+                    }
+                    ret.Add(data);
                 }
             }
             else
