@@ -160,6 +160,7 @@ namespace API.Controllers
                 result = new ArticleModel();
 
             }
+            conn.Close();
             return to_return;
         }
 
